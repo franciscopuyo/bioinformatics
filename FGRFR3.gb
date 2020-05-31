@@ -1,0 +1,444 @@
+LOCUS       NM_000142               4301 bp    mRNA    linear   PRI 24-MAY-2020
+DEFINITION  Homo sapiens fibroblast growth factor receptor 3 (FGFR3),
+            transcript variant 1, mRNA.
+ACCESSION   NM_000142
+VERSION     NM_000142.5
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4301)
+  AUTHORS   Xu C, Lin X, Qian W, Na R, Yu H, Jia H, Jiang H, Fang Z, Zheng SL,
+            Ding Q, Wu Y, Zheng J and Xu J.
+  TITLE     Genetic risk scores based on risk-associated single nucleotide
+            polymorphisms can reveal inherited risk of bladder cancer in
+            Chinese population
+  JOURNAL   Medicine (Baltimore) 99 (19), e19980 (2020)
+   PUBMED   32384449
+  REMARK    GeneRIF: Significant association between rs798766 and FGFR3
+            expression was observed for the risk of Bladder Cancer in Chinese
+            population, so it is biologically plausible that rs798766 may
+            influence FGFR3 expression by altering distant regulatory elements.
+            Rs9642880 has also been identified and verified in both Caucasian
+            and Chinese population.
+REFERENCE   2  (bases 1 to 4301)
+  AUTHORS   Kuang L, Wu J, Su N, Qi H, Chen H, Zhou S, Xiong Y, Du X, Tan Q,
+            Yang J, Jin M, Luo F, Ouyang J, Zhang B, Wang Z, Jiang W, Chen L,
+            Chen S, Wang Z, Liu P, Yin L, Guo F, Deng C, Chen D, Liu C, Xie Y,
+            Ni Z and Chen L.
+  TITLE     FGFR3 deficiency enhances CXCL12-dependent chemotaxis of
+            macrophages via upregulating CXCR7 and aggravates joint destruction
+            in mice
+  JOURNAL   Ann. Rheum. Dis. 79 (1), 112-122 (2020)
+   PUBMED   31662319
+  REMARK    GeneRIF: OA patients-derived monocytes have lower level of FGFR3
+            compared to controls.
+REFERENCE   3  (bases 1 to 4301)
+  AUTHORS   Kostopoulou ON, Holzhauser S, Lange BKA, Ohmayer A, Andonova T,
+            Bersani C, Wickstrom M and Dalianis T.
+  TITLE     Analyses of FGFR3 and PIK3CA mutations in neuroblastomas and the
+            effects of the corresponding inhibitors on neuroblastoma cell lines
+  JOURNAL   Int. J. Oncol. 55 (6), 1372-1384 (2019)
+   PUBMED   31638167
+  REMARK    GeneRIF: Study investigated the presence of FGFR3 and PIK3CA
+            mutations in neuroblastomas (NBs) and tested NB cell lines for
+            sensitivity to FGFR and PI3K inhibitors. Following treatment with
+            FGFR and PI3K inhibitors, a decrease in viability and proliferation
+            was observed in the majority, but not all, the cell lines. Study
+            findings demonstrate that FGFR3 and PIK3CA mutations are uncommon
+            in patients with NB.
+REFERENCE   4  (bases 1 to 4301)
+  AUTHORS   Bober,M.B., Bellus,G.A., Nikkel,S.M. and Tiller,G.E.
+  TITLE     Hypochondroplasia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301650
+REFERENCE   5  (bases 1 to 4301)
+  AUTHORS   Wenger,T., Miller,D. and Evans,K.
+  TITLE     FGFR Craniosynostosis Syndromes Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301628
+REFERENCE   6  (bases 1 to 4301)
+  AUTHORS   Kruszka,P., Addissie,Y.A., Agochukwu,N.B., Doherty,E.S. and
+            Muenke,M.
+  TITLE     Muenke Syndrome
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301588
+REFERENCE   7  (bases 1 to 4301)
+  AUTHORS   Karczeski,B. and Cutting,G.R.
+  TITLE     Thanatophoric Dysplasia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301540
+REFERENCE   8  (bases 1 to 4301)
+  AUTHORS   Pauli,R.M. and Legare,J.M.
+  TITLE     Achondroplasia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301331
+REFERENCE   9  (bases 1 to 4301)
+  AUTHORS   Thompson LM, Plummer S, Schalling M, Altherr MR, Gusella JF,
+            Housman DE and Wasmuth JJ.
+  TITLE     A gene encoding a fibroblast growth factor receptor isolated from
+            the Huntington disease gene region of human chromosome 4
+  JOURNAL   Genomics 11 (4), 1133-1142 (1991)
+   PUBMED   1664411
+REFERENCE   10 (bases 1 to 4301)
+  AUTHORS   Keegan K, Johnson DE, Williams LT and Hayman MJ.
+  TITLE     Isolation of an additional member of the fibroblast growth factor
+            receptor family, FGFR-3
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 88 (4), 1095-1099 (1991)
+   PUBMED   1847508
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC016773.8.
+            On Mar 11, 2020 this sequence version replaced NM_000142.4.
+            
+            Summary: This gene encodes a member of the fibroblast growth factor
+            receptor (FGFR) family, with its amino acid sequence being highly
+            conserved between members and among divergent species. FGFR family
+            members differ from one another in their ligand affinities and
+            tissue distribution. A full-length representative protein would
+            consist of an extracellular region, composed of three
+            immunoglobulin-like domains, a single hydrophobic membrane-spanning
+            segment and a cytoplasmic tyrosine kinase domain. The extracellular
+            portion of the protein interacts with fibroblast growth factors,
+            setting in motion a cascade of downstream signals, ultimately
+            influencing mitogenesis and differentiation. This particular family
+            member binds acidic and basic fibroblast growth hormone and plays a
+            role in bone development and maintenance. Mutations in this gene
+            lead to craniosynostosis and multiple types of skeletal dysplasia.
+            [provided by RefSeq, Aug 2017].
+            
+            Transcript Variant: This variant (1) lacks an alternate coding exon
+            and contains another alternate coding exon compared to variant 3.
+            The resulting isoform (1) has the same N- and C-termini but is
+            shorter compared to isoform 3.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR9304719.217759.1,
+                                           ERR3218372.729235.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on manual assertion, conservation
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-173               AC016773.8         169468-169640
+            174-384             AC016773.8         170008-170218
+            385-654             AC016773.8         175429-175698
+            655-720             AC016773.8         175922-175987
+            721-890             AC016773.8         177542-177711
+            891-1014            AC016773.8         177795-177918
+            1015-1205           AC016773.8         178010-178200
+            1206-1350           AC016773.8         179867-180011
+            1351-1541           AC016773.8         180505-180695
+            1542-1687           AC016773.8         180999-181144
+            1688-1809           AC016773.8         181530-181651
+            1810-1920           AC016773.8         181734-181844
+            1921-2111           AC016773.8         181925-182115
+            2112-2234           AC016773.8         182226-182348
+            2235-2305           AC016773.8         182432-182502
+            2306-2443           AC016773.8         182721-182858
+            2444-2549           AC016773.8         183004-183109
+            2550-4301           AC016773.8         183291-185042
+FEATURES             Location/Qualifiers
+     source          1..4301
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="4"
+                     /map="4p16.3"
+     gene            1..4301
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="fibroblast growth factor receptor 3"
+                     /db_xref="GeneID:2261"
+                     /db_xref="HGNC:HGNC:3690"
+                     /db_xref="MIM:134934"
+     exon            1..173
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            174..384
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             276..2696
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /EC_number="2.7.10.1"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; hydroxyaryl-protein kinase; tyrosine kinase
+                     JTK4; FGFR-3; fibroblast growth factor receptor 3 variant
+                     4; fibroblast growth factor receptor 3-S"
+                     /codon_start=1
+                     /product="fibroblast growth factor receptor 3 isoform 1
+                     precursor"
+                     /protein_id="NP_000133.1"
+                     /db_xref="CCDS:CCDS3353.1"
+                     /db_xref="GeneID:2261"
+                     /db_xref="HGNC:HGNC:3690"
+                     /db_xref="MIM:134934"
+                     /translation="MGAPACALALCVAVAIVAGASSESLGTEQRVVGRAAEVPGPEPG
+                     QQEQLVFGSGDAVELSCPPPGGGPMGPTVWVKDGTGLVPSERVLVGPQRLQVLNASHE
+                     DSGAYSCRQRLTQRVLCHFSVRVTDAPSSGDDEDGEDEAEDTGVDTGAPYWTRPERMD
+                     KKLLAVPAANTVRFRCPAAGNPTPSISWLKNGREFRGEHRIGGIKLRHQQWSLVMESV
+                     VPSDRGNYTCVVENKFGSIRQTYTLDVLERSPHRPILQAGLPANQTAVLGSDVEFHCK
+                     VYSDAQPHIQWLKHVEVNGSKVGPDGTPYVTVLKTAGANTTDKELEVLSLHNVTFEDA
+                     GEYTCLAGNSIGFSHHSAWLVVLPAEEELVEADEAGSVYAGILSYGVGFFLFILVVAA
+                     VTLCRLRSPPKKGLGSPTVHKISRFPLKRQVSLESNASMSSNTPLVRIARLSSGEGPT
+                     LANVSELELPADPKWELSRARLTLGKPLGEGCFGQVVMAEAIGIDKDRAAKPVTVAVK
+                     MLKDDATDKDLSDLVSEMEMMKMIGKHKNIINLLGACTQGGPLYVLVEYAAKGNLREF
+                     LRARRPPGLDYSFDTCKPPEEQLTFKDLVSCAYQVARGMEYLASQKCIHRDLAARNVL
+                     VTEDNVMKIADFGLARDVHNLDYYKKTTNGRLPVKWMAPEALFDRVYTHQSDVWSFGV
+                     LLWEIFTLGGSPYPGIPVEELFKLLKEGHRMDKPANCTHDLYMIMRECWHAAPSQRPT
+                     FKQLVEDLDRVLTVTSTDEYLDLSAPFEQYSPGGQDTPSSSSSGDDSVFAHDLLPPAP
+                     PSSGGSRT"
+     sig_peptide     276..341
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     342..2693
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /product="fibroblast growth factor receptor 3 isoform 1"
+     misc_feature    567..569
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); glycosylation site"
+     misc_feature    948..950
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); glycosylation site"
+     misc_feature    1059..1061
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); glycosylation site"
+     misc_feature    1155..1157
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); glycosylation site"
+     misc_feature    1218..1220
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); glycosylation site"
+     misc_feature    1257..1259
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); glycosylation site"
+     misc_feature    1401..1463
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22607.1);
+                     transmembrane region"
+     misc_feature    1605..1607
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61851; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); phosphorylation site"
+     misc_feature    1608..1610
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61851; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); phosphorylation site"
+     misc_feature    2214..2216
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     /evidence=ECO:0000305|PubMed:8754806; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); phosphorylation site"
+     misc_feature    2217..2219
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     /evidence=ECO:0000305|PubMed:8754806; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); phosphorylation site"
+     misc_feature    2445..2447
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     /evidence=ECO:0000269|PubMed:11294897; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); phosphorylation site"
+     misc_feature    2553..2555
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     /evidence=ECO:0000269|PubMed:19286672; propagated from
+                     UniProtKB/Swiss-Prot (P22607.1); phosphorylation site"
+     exon            385..654
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            655..720
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            721..890
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            891..1014
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1015..1205
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1206..1350
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1351..1541
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1542..1687
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1688..1809
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1810..1920
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1921..2111
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2112..2234
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2235..2305
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2306..2443
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2444..2549
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2550..4301
+                     /gene="FGFR3"
+                     /gene_synonym="ACH; CD333; CEK2; HSFGFR3EX; JTK4"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 agtgcgcggt ggcggcggcg tcgcgggcag ctggcgccgc gcggtcctgc tctgccggtc
+       61 gcacggacgc accggcgggc cgccggccgg agggacgggg cgggagctgg gcccgcggac
+      121 agcgagccgg agcgggagcc gcgcgtagcg agccgggctc cggcgctcgc cagtctcccg
+      181 agcggcgccc gcctcccgcc ggtgcccgcg ccgggccgtg gggggcagca tgcccgcgcg
+      241 cgctgcctga ggacgccgcg gcccccgccc ccgccatggg cgcccctgcc tgcgccctcg
+      301 cgctctgcgt ggccgtggcc atcgtggccg gcgcctcctc ggagtccttg gggacggagc
+      361 agcgcgtcgt ggggcgagcg gcagaagtcc cgggcccaga gcccggccag caggagcagt
+      421 tggtcttcgg cagcggggat gctgtggagc tgagctgtcc cccgcccggg ggtggtccca
+      481 tggggcccac tgtctgggtc aaggatggca cagggctggt gccctcggag cgtgtcctgg
+      541 tggggcccca gcggctgcag gtgctgaatg cctcccacga ggactccggg gcctacagct
+      601 gccggcagcg gctcacgcag cgcgtactgt gccacttcag tgtgcgggtg acagacgctc
+      661 catcctcggg agatgacgaa gacggggagg acgaggctga ggacacaggt gtggacacag
+      721 gggcccctta ctggacacgg cccgagcgga tggacaagaa gctgctggcc gtgccggccg
+      781 ccaacaccgt ccgcttccgc tgcccagccg ctggcaaccc cactccctcc atctcctggc
+      841 tgaagaacgg cagggagttc cgcggcgagc accgcattgg aggcatcaag ctgcggcatc
+      901 agcagtggag cctggtcatg gaaagcgtgg tgccctcgga ccgcggcaac tacacctgcg
+      961 tcgtggagaa caagtttggc agcatccggc agacgtacac gctggacgtg ctggagcgct
+     1021 ccccgcaccg gcccatcctg caggcggggc tgccggccaa ccagacggcg gtgctgggca
+     1081 gcgacgtgga gttccactgc aaggtgtaca gtgacgcaca gccccacatc cagtggctca
+     1141 agcacgtgga ggtgaatggc agcaaggtgg gcccggacgg cacaccctac gttaccgtgc
+     1201 tcaagacggc gggcgctaac accaccgaca aggagctaga ggttctctcc ttgcacaacg
+     1261 tcacctttga ggacgccggg gagtacacct gcctggcggg caattctatt gggttttctc
+     1321 atcactctgc gtggctggtg gtgctgccag ccgaggagga gctggtggag gctgacgagg
+     1381 cgggcagtgt gtatgcaggc atcctcagct acggggtggg cttcttcctg ttcatcctgg
+     1441 tggtggcggc tgtgacgctc tgccgcctgc gcagcccccc caagaaaggc ctgggctccc
+     1501 ccaccgtgca caagatctcc cgcttcccgc tcaagcgaca ggtgtccctg gagtccaacg
+     1561 cgtccatgag ctccaacaca ccactggtgc gcatcgcaag gctgtcctca ggggagggcc
+     1621 ccacgctggc caatgtctcc gagctcgagc tgcctgccga ccccaaatgg gagctgtctc
+     1681 gggcccggct gaccctgggc aagccccttg gggagggctg cttcggccag gtggtcatgg
+     1741 cggaggccat cggcattgac aaggaccggg ccgccaagcc tgtcaccgta gccgtgaaga
+     1801 tgctgaaaga cgatgccact gacaaggacc tgtcggacct ggtgtctgag atggagatga
+     1861 tgaagatgat cgggaaacac aaaaacatca tcaacctgct gggcgcctgc acgcagggcg
+     1921 ggcccctgta cgtgctggtg gagtacgcgg ccaagggtaa cctgcgggag tttctgcggg
+     1981 cgcggcggcc cccgggcctg gactactcct tcgacacctg caagccgccc gaggagcagc
+     2041 tcaccttcaa ggacctggtg tcctgtgcct accaggtggc ccggggcatg gagtacttgg
+     2101 cctcccagaa gtgcatccac agggacctgg ctgcccgcaa tgtgctggtg accgaggaca
+     2161 acgtgatgaa gatcgcagac ttcgggctgg cccgggacgt gcacaacctc gactactaca
+     2221 agaagacgac caacggccgg ctgcccgtga agtggatggc gcctgaggcc ttgtttgacc
+     2281 gagtctacac tcaccagagt gacgtctggt cctttggggt cctgctctgg gagatcttca
+     2341 cgctgggggg ctccccgtac cccggcatcc ctgtggagga gctcttcaag ctgctgaagg
+     2401 agggccaccg catggacaag cccgccaact gcacacacga cctgtacatg atcatgcggg
+     2461 agtgctggca tgccgcgccc tcccagaggc ccaccttcaa gcagctggtg gaggacctgg
+     2521 accgtgtcct taccgtgacg tccaccgacg agtacctgga cctgtcggcg cctttcgagc
+     2581 agtactcccc gggtggccag gacaccccca gctccagctc ctcaggggac gactccgtgt
+     2641 ttgcccacga cctgctgccc ccggccccac ccagcagtgg gggctcgcgg acgtgaaggg
+     2701 ccactggtcc ccaacaatgt gaggggtccc tagcagccca ccctgctgct ggtgcacagc
+     2761 cactccccgg catgagactc agtgcagatg gagagacagc tacacagagc tttggtctgt
+     2821 gtgtgtgtgt gtgcgtgtgt gtgtgtgtgt gtgcacatcc gcgtgtgcct gtgtgcgtgc
+     2881 gcatcttgcc tccaggtgca gaggtaccct gggtgtcccc gctgctgtgc aacggtctcc
+     2941 tgactggtgc tgcagcaccg aggggccttt gttctggggg gacccagtgc agaatgtaag
+     3001 tgggcccacc cggtgggacc cccgtggggc agggagctgg gcccgacatg gctccggcct
+     3061 ctgcctttgc accacgggac atcacagggt gggcctcggc ccctcccaca cccaaagctg
+     3121 agcctgcagg gaagccccac atgtccagca ccttgtgcct ggggtgttag tggcaccgcc
+     3181 tccccacctc caggctttcc cacttcccac cctgcccctc agagactgaa attacgggta
+     3241 cctgaagatg ggagccttta ccttttatgc aaaaggttta ttccggaaac tagtgtacat
+     3301 ttctataaat agatgctgtg tatatggtat atatacatat atatatataa catatatgga
+     3361 agaggaaaag gctggtacaa cggaggcctg cgaccctggg ggcacaggag gcaggcatgg
+     3421 ccctgggcgg ggcgtggggg ggcgtggagg gaggccccag ggggtctcac ccatgcaagc
+     3481 agaggaccag ggccttttct ggcaccgcag ttttgtttta aaactggacc tgtatatttg
+     3541 taaagctatt tatgggcccc tggcactctt gttcccacac cccaacactt ccagcattta
+     3601 gctggccaca tggcggagag ttttaatttt taacttattg acaaccgaga aggtttatcc
+     3661 cgccgataga gggacggcca agaatgtacg tccagcctgc cccggagctg gaggatcccc
+     3721 tccaagccta aaaggttgtt aatagttgga ggtgattcca gtgaagatat tttatttcct
+     3781 ttgtcctttt tcaggagaat tagatttcta taggattttt ctttaggaga tttatttttt
+     3841 ggacttcaaa gcaagctggt attttcatac aaattcttct aattgctgtg tgtcccaggc
+     3901 agggagacgg tttccaggga ggggccggcc ctgtgtgcag gttccgatgt tattagatgt
+     3961 tacaagttta tatatatcta tatatataat ttattgagtt tttacaagat gtatttgttg
+     4021 tagacttaac acttcttacg caatgcttct agagttttat agcctggact gctacctttc
+     4081 aaagcttgga gggaagccgt gaattcagtt ggttcgttct gtactgttac tgggccctga
+     4141 gtctgggcag ctgtcccttg cttgcctgca gggccatggc tcagggtggt ctcttcttgg
+     4201 ggcccagtgc atggtggcca gaggtgtcac ccaaaccggc aggtgcgatt ttgttaaccc
+     4261 agcgacgaac tttccgaaaa ataaagacac ctggttgcta a
+//
+

@@ -1,0 +1,48 @@
+#FGRFR3 RNA Translator 
+
+## Get started 
+Install Perl and the cpanm and the following dependencies
+```
+cpanm Bio::DB::GenBank
+cpanm Bio::Perl
+cpanm Bio::Tools::CodonTable
+cpanm Bio::Tools::Run::RemoteBlast
+```
+## Scripts
+
+ARN translator
+Creates a translation.fasta with the encoded protein
+```
+perl arnTranslator [filename.gb] [start] [stop]
+```
+
+Blast analyser
+Creates a *.out with the query name if exists or .out if it doesn't with the blast analysis using blast proteins DB
+```
+perl blast [filename.fasta]
+```
+
+## Troubleshooting
+
+####Error
+```
+--------------------- WARNING ---------------------
+MSG: req was POST https://blast.ncbi.nlm.nih.gov/Blast.cgi
+User-Agent: bioperl-Bio_Tools_Run_RemoteBlast/1.7.7
+Content-Length: 1035
+Content-Type: application/x-www-form-urlencoded
+
+FILTER=L&FORMAT_OBJECT=Alignment&FORMAT_TYPE=Text&SERVICE=plain&COMPOSITION_BASED_STATISTICS=off&QUERY=%3E+%0D%0AMGAPACALALCVAVAIVAGASSESLGTEQRVVGRAAEVPGPEPGQQEQLVFGSGDAVELSCPPPGGGPMGPTVWVKDGTGLVPSERVLVGPQRLQVLNASHEDSGAYSCRQRLTQRVLCHFSVRVTDAPSSGDDEDGEDEAEDTGVDTGAPYWTRPERMDKKLLAVPAANTVRFRCPAAGNPTPSISWLKNGREFRGEHRIGGIKLRHQQWSLVMESVVPSDRGNYTCVVENKFGSIRQTYTLDVLERSPHRPILQAGLPANQTAVLGSDVEFHCKVYSDAQPHIQWLKHVEVNGSKVGPDGTPYVTVLKTAGANTTDKELEVLSLHNVTFEDAGEYTCLAGNSIGFSHHSAWLVVLPAEEELVEADEAGSVYAGILSYGVGFFLFILVVAAVTLCRLRSPPKKGLGSPTVHKISRFPLKRQVSLESNASMSSNTPLVRIARLSSGEGPTLANVSELELPADPKWELSRARLTLGKPLGEGCFGQVVMAEAIGIDKDRAAKPVTVAVKMLKDDATDKDLSDLVSEMEMMKMIGKHKNIINLLGACTQGGPLYVLVEYAAKGNLREFLRARRPPGLDYSFDTCKPPEEQLTFKDLVSCAYQVARGMEYLASQKCIHRDLAARNVLVTEDNVMKIADFGLARDVHNLDYYKKTTNGRLPVKWMAPEALFDRVYTHQSDVWSFGVLLWEIFTLGGSPYPGIPVEELFKLLKEGHRMDKPANCTHDLYMIMRECWHAAPSQRPTFKQLVEDLDRVLTVTSTDEYLDLSAPFEQYSPGGQDTPSSSSSGDDSVFAHDLLPPAPPSSGGSRT*&ALIGNMENT_VIEW=Pairwise&ALIGNMENTS=50&CMD=Put&DATABASE=refseq_protein&PROGRAM=blastp&EXPECT=1e-10&DESCRIPTIONS=100
+
+<html>
+<head><title>An Error Occurred</title></head>
+<body>
+<h1>An Error Occurred</h1>
+<p>500 Can't verify SSL peers without knowing which Certificate Authorities to trust</p>
+</body>
+</html>
+```
+#### Fix
+```
+cpan Mozilla::CA
+```

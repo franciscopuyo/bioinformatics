@@ -3,10 +3,10 @@
 ## Get started 
 Install Perl and the cpanm and the following dependencies
 ```
-cpanm Bio::DB::GenBank
-cpanm Bio::Perl
-cpanm Bio::Tools::CodonTable
-cpanm Bio::Tools::Run::RemoteBlast
+cpan Bio::DB::GenBank
+cpan Bio::Perl
+cpan Bio::Tools::CodonTable
+cpan Bio::Tools::Run::RemoteBlast
 ```
 ## Scripts
 

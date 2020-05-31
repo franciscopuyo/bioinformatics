@@ -1,4 +1,4 @@
-#FGRFR3 RNA Translator 
+# FGRFR3 RNA Translator 
 
 ## Get started 
 Install Perl and the cpanm and the following dependencies
@@ -24,7 +24,7 @@ perl blast [filename.fasta]
 
 ## Troubleshooting
 
-####Error
+#### Error
 ```
 --------------------- WARNING ---------------------
 MSG: req was POST https://blast.ncbi.nlm.nih.gov/Blast.cgi

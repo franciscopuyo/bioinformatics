@@ -53,7 +53,7 @@ while (my $input = $str->next_seq()){
       } else {
         my $result = $rc->next_result();
         #save the output
-        my $filename = $result->query_name()."\.out";
+        my $filename = "blast.out";
         $factory->save_output($filename);
         $factory->remove_rid($rid);
         print "\nQuery Name: ", $result->query_name(), "\n";

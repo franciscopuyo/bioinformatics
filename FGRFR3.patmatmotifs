@@ -1,0 +1,2268 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sun  5 Jul 2020 20:56:28
+# Commandline: patmatmotifs
+#    -full 1
+#    -outfile FGRFR3.patmatmotifs
+#    -sequence /var/folders/2x/zs7lznt10154svp5ryc15hf80000gn/T/XphIVb6MkR/EVK9AJNwlS
+#    -auto
+# Report_format: dbmotif
+# Report_file: FGRFR3.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_000142     from: 1   to: 4301
+# HitCount: 133
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/local/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 12
+Start = position 4180 of sequence
+End = position 4191 of sequence
+
+Motif = EGF_1
+
+CATGGCTCAGGGTGGTCTCTTC
+     |          |
+  4180          4191
+
+Length = 12
+Start = position 3455 of sequence
+End = position 3466 of sequence
+
+Motif = EGF_1
+
+GGAGGCCCCAGGGGGTCTCACC
+     |          |
+  3455          3466
+
+Length = 12
+Start = position 3135 of sequence
+End = position 3146 of sequence
+
+Motif = EGF_1
+
+GGAAGCCCCACATGTCCAGCAC
+     |          |
+  3135          3146
+
+Length = 12
+Start = position 3083 of sequence
+End = position 3094 of sequence
+
+Motif = EGF_1
+
+GACATCACAGGGTGGGCCTCGG
+     |          |
+  3083          3094
+
+Length = 12
+Start = position 3019 of sequence
+End = position 3030 of sequence
+
+Motif = EGF_1
+
+TGGGACCCCCGTGGGGCAGGGA
+     |          |
+  3019          3030
+
+Length = 12
+Start = position 3009 of sequence
+End = position 3020 of sequence
+
+Motif = EGF_1
+
+GCCCACCCGGTGGGACCCCCGT
+     |          |
+  3009          3020
+
+Length = 12
+Start = position 2956 of sequence
+End = position 2967 of sequence
+
+Motif = EGF_1
+
+TGCAGCACCGAGGGGCCTTTGT
+     |          |
+  2956          2967
+
+Length = 12
+Start = position 2907 of sequence
+End = position 2918 of sequence
+
+Motif = EGF_1
+
+AGGTACCCTGGGTGTCCCCGCT
+     |          |
+  2907          2918
+
+Length = 12
+Start = position 2587 of sequence
+End = position 2598 of sequence
+
+Motif = EGF_1
+
+GTACTCCCCGGGTGGCCAGGAC
+     |          |
+  2587          2598
+
+Length = 12
+Start = position 2569 of sequence
+End = position 2580 of sequence
+
+Motif = EGF_1
+
+GTCGGCGCCTTTCGAGCAGTAC
+     |          |
+  2569          2580
+
+Length = 12
+Start = position 2480 of sequence
+End = position 2491 of sequence
+
+Motif = EGF_1
+
+GCGCCCTCCCAGAGGCCCACCT
+     |          |
+  2480          2491
+
+Length = 12
+Start = position 2436 of sequence
+End = position 2447 of sequence
+
+Motif = EGF_1
+
+GCACACACGACCTGTACATGAT
+     |          |
+  2436          2447
+
+Length = 12
+Start = position 2406 of sequence
+End = position 2417 of sequence
+
+Motif = EGF_1
+
+AGGGCCACCGCATGGACAAGCC
+     |          |
+  2406          2417
+
+Length = 12
+Start = position 2325 of sequence
+End = position 2336 of sequence
+
+Motif = EGF_1
+
+TCCTGCTCTGGGAGATCTTCAC
+     |          |
+  2325          2336
+
+Length = 12
+Start = position 2191 of sequence
+End = position 2202 of sequence
+
+Motif = EGF_1
+
+GCTGGCCCGGGACGTGCACAAC
+     |          |
+  2191          2202
+
+Length = 12
+Start = position 2134 of sequence
+End = position 2145 of sequence
+
+Motif = EGF_1
+
+GGCTGCCCGCAATGTGCTGGTG
+     |          |
+  2134          2145
+
+Length = 12
+Start = position 2026 of sequence
+End = position 2037 of sequence
+
+Motif = EGF_1
+
+CAAGCCGCCCGAGGAGCAGCTC
+     |          |
+  2026          2037
+
+Length = 12
+Start = position 1924 of sequence
+End = position 1935 of sequence
+
+Motif = EGF_1
+
+CGGGCCCCTGTACGTGCTGGTG
+     |          |
+  1924          1935
+
+Length = 12
+Start = position 1912 of sequence
+End = position 1923 of sequence
+
+Motif = EGF_1
+
+CTGCACGCAGGGCGGGCCCCTG
+     |          |
+  1912          1923
+
+Length = 12
+Start = position 1620 of sequence
+End = position 1631 of sequence
+
+Motif = EGF_1
+
+AGGGCCCCACGCTGGCCAATGT
+     |          |
+  1620          1631
+
+Length = 12
+Start = position 1579 of sequence
+End = position 1590 of sequence
+
+Motif = EGF_1
+
+CAACACACCACTGGTGCGCATC
+     |          |
+  1579          1590
+
+Length = 12
+Start = position 1498 of sequence
+End = position 1509 of sequence
+
+Motif = EGF_1
+
+GGGCTCCCCCACCGTGCACAAG
+     |          |
+  1498          1509
+
+Length = 12
+Start = position 1022 of sequence
+End = position 1033 of sequence
+
+Motif = EGF_1
+
+CGCTCCCCGCACCGGCCCATCC
+     |          |
+  1022          1033
+
+Length = 12
+Start = position 1000 of sequence
+End = position 1011 of sequence
+
+Motif = EGF_1
+
+GTACACGCTGGACGTGCTGGAG
+     |          |
+  1000          1011
+
+Length = 12
+Start = position 736 of sequence
+End = position 747 of sequence
+
+Motif = EGF_1
+
+CTGGACACGGCCCGAGCGGATG
+     |          |
+   736          747
+
+Length = 12
+Start = position 725 of sequence
+End = position 736 of sequence
+
+Motif = EGF_1
+
+GGGGCCCCTTACTGGACACGGC
+     |          |
+   725          736
+
+Length = 12
+Start = position 621 of sequence
+End = position 632 of sequence
+
+Motif = EGF_1
+
+CGCAGCGCGTACTGTGCCACTT
+     |          |
+   621          632
+
+Length = 12
+Start = position 616 of sequence
+End = position 627 of sequence
+
+Motif = EGF_1
+
+GCTCACGCAGCGCGTACTGTGC
+     |          |
+   616          627
+
+Length = 12
+Start = position 303 of sequence
+End = position 314 of sequence
+
+Motif = EGF_1
+
+TCGCGCTCTGCGTGGCCGTGGC
+     |          |
+   303          314
+
+Length = 12
+Start = position 270 of sequence
+End = position 281 of sequence
+
+Motif = EGF_1
+
+CCGCCCCCGCCATGGGCGCCCC
+     |          |
+   270          281
+
+Length = 12
+Start = position 205 of sequence
+End = position 216 of sequence
+
+Motif = EGF_1
+
+CGGTGCCCGCGCCGGGCCGTGG
+     |          |
+   205          216
+
+Length = 12
+Start = position 142 of sequence
+End = position 153 of sequence
+
+Motif = EGF_1
+
+AGCCGCGCGTAGCGAGCCGGGC
+     |          |
+   142          153
+
+Length = 12
+Start = position 70 of sequence
+End = position 81 of sequence
+
+Motif = EGF_1
+
+GGACGCACCGGCGGGCCGCCGG
+     |          |
+    70          81
+
+Length = 12
+Start = position 35 of sequence
+End = position 46 of sequence
+
+Motif = EGF_1
+
+GCTGGCGCCGCGCGGTCCTGCT
+     |          |
+    35          46
+
+Length = 14
+Start = position 3640 of sequence
+End = position 3653 of sequence
+
+Motif = THIOLASE_3
+
+TTATTGACAACCGAGAAGGTTTAT
+     |            |
+  3640            3653
+
+Length = 14
+Start = position 2211 of sequence
+End = position 2224 of sequence
+
+Motif = THIOLASE_3
+
+ACCTCGACTACTACAAGAAGACGA
+     |            |
+  2211            2224
+
+Length = 14
+Start = position 843 of sequence
+End = position 856 of sequence
+
+Motif = THIOLASE_3
+
+GGCTGAAGAACGGCAGGGAGTTCC
+     |            |
+   843            856
+
+Length = 14
+Start = position 678 of sequence
+End = position 691 of sequence
+
+Motif = THIOLASE_3
+
+ATGACGAAGACGGGGAGGACGAGG
+     |            |
+   678            691
+
+Length = 9
+Start = position 4143 of sequence
+End = position 4151 of sequence
+
+Motif = 2FE2S_FER_1
+
+TGAGTCTGGGCAGCTGTCC
+     |       |
+  4143       4151
+
+Length = 9
+Start = position 4064 of sequence
+End = position 4072 of sequence
+
+Motif = 2FE2S_FER_1
+
+ATAGCCTGGACTGCTACCT
+     |       |
+  4064       4072
+
+Length = 9
+Start = position 3075 of sequence
+End = position 3083 of sequence
+
+Motif = 2FE2S_FER_1
+
+CACCACGGGACATCACAGG
+     |       |
+  3075       3083
+
+Length = 9
+Start = position 2534 of sequence
+End = position 2542 of sequence
+
+Motif = 2FE2S_FER_1
+
+CTTACCGTGACGTCCACCG
+     |       |
+  2534       2542
+
+Length = 9
+Start = position 2280 of sequence
+End = position 2288 of sequence
+
+Motif = 2FE2S_FER_1
+
+TTGACCGAGTCTACACTCA
+     |       |
+  2280       2288
+
+Length = 9
+Start = position 1998 of sequence
+End = position 2006 of sequence
+
+Motif = 2FE2S_FER_1
+
+CGGGCCTGGACTACTCCTT
+     |       |
+  1998       2006
+
+Length = 9
+Start = position 1202 of sequence
+End = position 1210 of sequence
+
+Motif = 2FE2S_FER_1
+
+GTGCTCAAGACGGCGGGCG
+     |       |
+  1202       1210
+
+Length = 9
+Start = position 1074 of sequence
+End = position 1082 of sequence
+
+Motif = 2FE2S_FER_1
+
+CGGTGCTGGGCAGCGACGT
+     |       |
+  1074       1082
+
+Length = 9
+Start = position 1045 of sequence
+End = position 1053 of sequence
+
+Motif = 2FE2S_FER_1
+
+GCAGGCGGGGCTGCCGGCC
+     |       |
+  1045       1053
+
+Length = 9
+Start = position 355 of sequence
+End = position 363 of sequence
+
+Motif = 2FE2S_FER_1
+
+GGGGACGGAGCAGCGCGTC
+     |       |
+   355       363
+
+Length = 12
+Start = position 2566 of sequence
+End = position 2577 of sequence
+
+Motif = 4FE4S_FER_1
+
+CCTGTCGGCGCCTTTCGAGCAG
+     |          |
+  2566          2577
+
+Length = 12
+Start = position 606 of sequence
+End = position 617 of sequence
+
+Motif = 4FE4S_FER_1
+
+GCCGGCAGCGGCTCACGCAGCG
+     |          |
+   606          617
+
+Length = 12
+Start = position 158 of sequence
+End = position 169 of sequence
+
+Motif = 4FE4S_FER_1
+
+CCGGGCTCCGGCGCTCGCCAGT
+     |          |
+   158          169
+
+Length = 15
+Start = position 256 of sequence
+End = position 270 of sequence
+
+Motif = INTEGRIN_BETA
+
+GGACGCCGCGGCCCCCGCCCCCGCC
+     |             |
+   256             270
+
+Length = 15
+Start = position 28 of sequence
+End = position 42 of sequence
+
+Motif = INTEGRIN_BETA
+
+GCGGGCAGCTGGCGCCGCGCGGTCC
+     |             |
+    28             42
+
+Length = 28
+Start = position 1475 of sequence
+End = position 1502 of sequence
+
+Motif = DEFENSIN
+
+CGCAGCCCCCCCAAGAAAGGCCTGGGCTCCCCCACCGT
+     |                          |
+  1475                          1502
+
+Length = 29
+Start = position 798 of sequence
+End = position 826 of sequence
+
+Motif = DEFENSIN
+
+GCTTCCGCTGCCCAGCCGCTGGCAACCCCACTCCCTCCA
+     |                           |
+   798                           826
+
+Length = 28
+Start = position 461 of sequence
+End = position 488 of sequence
+
+Motif = DEFENSIN
+
+TGTCCCCCGCCCGGGGGTGGTCCCATGGGGCCCACTGT
+     |                          |
+   461                          488
+
+Length = 29
+Start = position 460 of sequence
+End = position 488 of sequence
+
+Motif = DEFENSIN
+
+CTGTCCCCCGCCCGGGGGTGGTCCCATGGGGCCCACTGT
+     |                           |
+   460                           488
+
+Length = 30
+Start = position 459 of sequence
+End = position 488 of sequence
+
+Motif = DEFENSIN
+
+GCTGTCCCCCGCCCGGGGGTGGTCCCATGGGGCCCACTGT
+     |                            |
+   459                            488
+
+Length = 30
+Start = position 257 of sequence
+End = position 286 of sequence
+
+Motif = DEFENSIN
+
+GACGCCGCGGCCCCCGCCCCCGCCATGGGCGCCCCTGCCT
+     |                            |
+   257                            286
+
+Length = 28
+Start = position 190 of sequence
+End = position 217 of sequence
+
+Motif = DEFENSIN
+
+GCGCCCGCCTCCCGCCGGTGCCCGCGCCGGGCCGTGGG
+     |                          |
+   190                          217
+
+Length = 30
+Start = position 188 of sequence
+End = position 217 of sequence
+
+Motif = DEFENSIN
+
+CGGCGCCCGCCTCCCGCCGGTGCCCGCGCCGGGCCGTGGG
+     |                            |
+   188                            217
+
+Length = 32
+Start = position 4135 of sequence
+End = position 4166 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CTGGGCCCTGAGTCTGGGCAGCTGTCCCTTGCTTGCCTGCAG
+     |                              |
+  4135                              4166
+
+Length = 34
+Start = position 3455 of sequence
+End = position 3488 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GGAGGCCCCAGGGGGTCTCACCCATGCAAGCAGAGGACCAGGGC
+     |                                |
+  3455                                3488
+
+Length = 36
+Start = position 3182 of sequence
+End = position 3217 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CGCCTCCCCACCTCCAGGCTTTCCCACTTCCCACCCTGCCCCTCAG
+     |                                  |
+  3182                                  3217
+
+Length = 32
+Start = position 3072 of sequence
+End = position 3103 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TTGCACCACGGGACATCACAGGGTGGGCCTCGGCCCCTCCCA
+     |                              |
+  3072                              3103
+
+Length = 34
+Start = position 2635 of sequence
+End = position 2668 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CGACTCCGTGTTTGCCCACGACCTGCTGCCCCCGGCCCCACCCA
+     |                                |
+  2635                                2668
+
+Length = 33
+Start = position 2620 of sequence
+End = position 2652 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CAGCTCCTCAGGGGACGACTCCGTGTTTGCCCACGACCTGCTG
+     |                               |
+  2620                               2652
+
+Length = 35
+Start = position 2555 of sequence
+End = position 2589 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GAGTACCTGGACCTGTCGGCGCCTTTCGAGCAGTACTCCCCGGGT
+     |                                 |
+  2555                                 2589
+
+Length = 34
+Start = position 2279 of sequence
+End = position 2312 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TTTGACCGAGTCTACACTCACCAGAGTGACGTCTGGTCCTTTGG
+     |                                |
+  2279                                2312
+
+Length = 37
+Start = position 2117 of sequence
+End = position 2153 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TGCATCCACAGGGACCTGGCTGCCCGCAATGTGCTGGTGACCGAGGA
+     |                                   |
+  2117                                   2153
+
+Length = 35
+Start = position 2029 of sequence
+End = position 2063 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GCCGCCCGAGGAGCAGCTCACCTTCAAGGACCTGGTGTCCTGTGC
+     |                                 |
+  2029                                 2063
+
+Length = 36
+Start = position 2028 of sequence
+End = position 2063 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+AGCCGCCCGAGGAGCAGCTCACCTTCAAGGACCTGGTGTCCTGTGC
+     |                                  |
+  2028                                  2063
+
+Length = 35
+Start = position 1992 of sequence
+End = position 2026 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GGCCCCCGGGCCTGGACTACTCCTTCGACACCTGCAAGCCGCCCG
+     |                                 |
+  1992                                 2026
+
+Length = 37
+Start = position 1990 of sequence
+End = position 2026 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GCGGCCCCCGGGCCTGGACTACTCCTTCGACACCTGCAAGCCGCCCG
+     |                                   |
+  1990                                   2026
+
+Length = 35
+Start = position 1661 of sequence
+End = position 1695 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GCCGACCCCAAATGGGAGCTGTCTCGGGCCCGGCTGACCCTGGGC
+     |                                 |
+  1661                                 1695
+
+Length = 36
+Start = position 1547 of sequence
+End = position 1582 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GTGTCCCTGGAGTCCAACGCGTCCATGAGCTCCAACACACCACTGG
+     |                                  |
+  1547                                  1582
+
+Length = 37
+Start = position 1546 of sequence
+End = position 1582 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GGTGTCCCTGGAGTCCAACGCGTCCATGAGCTCCAACACACCACTGG
+     |                                   |
+  1546                                   1582
+
+Length = 32
+Start = position 1436 of sequence
+End = position 1467 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TTCATCCTGGTGGTGGCGGCTGTGACGCTCTGCCGCCTGCGC
+     |                              |
+  1436                              1467
+
+Length = 32
+Start = position 216 of sequence
+End = position 247 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CCGGGCCGTGGGGGGCAGCATGCCCGCGCGCGCTGCCTGAGG
+     |                              |
+   216                              247
+
+Length = 37
+Start = position 37 of sequence
+End = position 73 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TGGCGCCGCGCGGTCCTGCTCTGCCGGTCGCACGGACGCACCGGCGG
+     |                                   |
+    37                                   73
+
+Length = 39
+Start = position 2671 of sequence
+End = position 2709 of sequence
+
+Motif = CTCK_1
+
+CCCACCCAGCAGTGGGGGCTCGCGGACGTGAAGGGCCACTGGTCCCCAA
+     |                                     |
+  2671                                     2709
+
+Length = 39
+Start = position 1490 of sequence
+End = position 1528 of sequence
+
+Motif = CTCK_1
+
+AAAGGCCTGGGCTCCCCCACCGTGCACAAGATCTCCCGCTTCCCGCTCA
+     |                                     |
+  1490                                     1528
+
+Length = 37
+Start = position 911 of sequence
+End = position 947 of sequence
+
+Motif = CTCK_1
+
+TGGAGCCTGGTCATGGAAAGCGTGGTGCCCTCGGACCGCGGCAACTA
+     |                                   |
+   911                                   947
+
+Length = 39
+Start = position 270 of sequence
+End = position 308 of sequence
+
+Motif = CTCK_1
+
+CCGCCCCCGCCATGGGCGCCCCTGCCTGCGCCCTCGCGCTCTGCGTGGC
+     |                                     |
+   270                                     308
+
+Length = 38
+Start = position 127 of sequence
+End = position 164 of sequence
+
+Motif = CTCK_1
+
+GCGAGCCGGAGCGGGAGCCGCGCGTAGCGAGCCGGGCTCCGGCGCTCG
+     |                                    |
+   127                                    164
+
+Length = 36
+Start = position 3560 of sequence
+End = position 3595 of sequence
+
+Motif = VWFC_1
+
+GGCCCCTGGCACTCTTGTTCCCACACCCCAACACTTCCAGCATTTA
+     |                                  |
+  3560                                  3595
+
+Length = 36
+Start = position 3185 of sequence
+End = position 3220 of sequence
+
+Motif = VWFC_1
+
+CTCCCCACCTCCAGGCTTTCCCACTTCCCACCCTGCCCCTCAGAGA
+     |                                  |
+  3185                                  3220
+
+Length = 37
+Start = position 3184 of sequence
+End = position 3220 of sequence
+
+Motif = VWFC_1
+
+CCTCCCCACCTCCAGGCTTTCCCACTTCCCACCCTGCCCCTCAGAGA
+     |                                   |
+  3184                                   3220
+
+Length = 39
+Start = position 3182 of sequence
+End = position 3220 of sequence
+
+Motif = VWFC_1
+
+CGCCTCCCCACCTCCAGGCTTTCCCACTTCCCACCCTGCCCCTCAGAGA
+     |                                     |
+  3182                                     3220
+
+Length = 44
+Start = position 3177 of sequence
+End = position 3220 of sequence
+
+Motif = VWFC_1
+
+GGCACCGCCTCCCCACCTCCAGGCTTTCCCACTTCCCACCCTGCCCCTCAGAGA
+     |                                          |
+  3177                                          3220
+
+Length = 45
+Start = position 3176 of sequence
+End = position 3220 of sequence
+
+Motif = VWFC_1
+
+TGGCACCGCCTCCCCACCTCCAGGCTTTCCCACTTCCCACCCTGCCCCTCAGAGA
+     |                                           |
+  3176                                           3220
+
+Length = 46
+Start = position 3106 of sequence
+End = position 3151 of sequence
+
+Motif = VWFC_1
+
+CCCTCCCACACCCAAAGCTGAGCCTGCAGGGAAGCCCCACATGTCCAGCACCTTGT
+     |                                            |
+  3106                                            3151
+
+Length = 47
+Start = position 3105 of sequence
+End = position 3151 of sequence
+
+Motif = VWFC_1
+
+CCCCTCCCACACCCAAAGCTGAGCCTGCAGGGAAGCCCCACATGTCCAGCACCTTGT
+     |                                             |
+  3105                                             3151
+
+Length = 49
+Start = position 3103 of sequence
+End = position 3151 of sequence
+
+Motif = VWFC_1
+
+GGCCCCTCCCACACCCAAAGCTGAGCCTGCAGGGAAGCCCCACATGTCCAGCACCTTGT
+     |                                               |
+  3103                                               3151
+
+Length = 41
+Start = position 3100 of sequence
+End = position 3140 of sequence
+
+Motif = VWFC_1
+
+CTCGGCCCCTCCCACACCCAAAGCTGAGCCTGCAGGGAAGCCCCACATGTC
+     |                                       |
+  3100                                       3140
+
+Length = 48
+Start = position 3080 of sequence
+End = position 3127 of sequence
+
+Motif = VWFC_1
+
+CGGGACATCACAGGGTGGGCCTCGGCCCCTCCCACACCCAAAGCTGAGCCTGCAGGGA
+     |                                              |
+  3080                                              3127
+
+Length = 53
+Start = position 3055 of sequence
+End = position 3107 of sequence
+
+Motif = VWFC_1
+
+GGCTCCGGCCTCTGCCTTTGCACCACGGGACATCACAGGGTGGGCCTCGGCCCCTCCCACACC
+     |                                                   |
+  3055                                                   3107
+
+Length = 58
+Start = position 2933 of sequence
+End = position 2990 of sequence
+
+Motif = VWFC_1
+
+TGCAACGGTCTCCTGACTGGTGCTGCAGCACCGAGGGGCCTTTGTTCTGGGGGGACCCAGTGCAGAAT
+     |                                                        |
+  2933                                                        2990
+
+Length = 51
+Start = position 2665 of sequence
+End = position 2715 of sequence
+
+Motif = VWFC_1
+
+CCCGGCCCCACCCAGCAGTGGGGGCTCGCGGACGTGAAGGGCCACTGGTCCCCAACAATGT
+     |                                                 |
+  2665                                                 2715
+
+Length = 46
+Start = position 2630 of sequence
+End = position 2675 of sequence
+
+Motif = VWFC_1
+
+GGGGACGACTCCGTGTTTGCCCACGACCTGCTGCCCCCGGCCCCACCCAGCAGTGG
+     |                                            |
+  2630                                            2675
+
+Length = 50
+Start = position 2618 of sequence
+End = position 2667 of sequence
+
+Motif = VWFC_1
+
+TCCAGCTCCTCAGGGGACGACTCCGTGTTTGCCCACGACCTGCTGCCCCCGGCCCCACCC
+     |                                                |
+  2618                                                2667
+
+Length = 53
+Start = position 2615 of sequence
+End = position 2667 of sequence
+
+Motif = VWFC_1
+
+AGCTCCAGCTCCTCAGGGGACGACTCCGTGTTTGCCCACGACCTGCTGCCCCCGGCCCCACCC
+     |                                                   |
+  2615                                                   2667
+
+Length = 54
+Start = position 2614 of sequence
+End = position 2667 of sequence
+
+Motif = VWFC_1
+
+CAGCTCCAGCTCCTCAGGGGACGACTCCGTGTTTGCCCACGACCTGCTGCCCCCGGCCCCACCC
+     |                                                    |
+  2614                                                    2667
+
+Length = 53
+Start = position 2476 of sequence
+End = position 2528 of sequence
+
+Motif = VWFC_1
+
+TGCCGCGCCCTCCCAGAGGCCCACCTTCAAGCAGCTGGTGGAGGACCTGGACCGTGTCCTTAC
+     |                                                   |
+  2476                                                   2528
+
+Length = 53
+Start = position 2432 of sequence
+End = position 2484 of sequence
+
+Motif = VWFC_1
+
+AACTGCACACACGACCTGTACATGATCATGCGGGAGTGCTGGCATGCCGCGCCCTCCCAGAGG
+     |                                                   |
+  2432                                                   2484
+
+Length = 51
+Start = position 2429 of sequence
+End = position 2479 of sequence
+
+Motif = VWFC_1
+
+GCCAACTGCACACACGACCTGTACATGATCATGCGGGAGTGCTGGCATGCCGCGCCCTCCC
+     |                                                 |
+  2429                                                 2479
+
+Length = 45
+Start = position 2322 of sequence
+End = position 2366 of sequence
+
+Motif = VWFC_1
+
+GGGTCCTGCTCTGGGAGATCTTCACGCTGGGGGGCTCCCCGTACCCCGGCATCCC
+     |                                           |
+  2322                                           2366
+
+Length = 46
+Start = position 2321 of sequence
+End = position 2366 of sequence
+
+Motif = VWFC_1
+
+GGGGTCCTGCTCTGGGAGATCTTCACGCTGGGGGGCTCCCCGTACCCCGGCATCCC
+     |                                            |
+  2321                                            2366
+
+Length = 46
+Start = position 2003 of sequence
+End = position 2048 of sequence
+
+Motif = VWFC_1
+
+CTGGACTACTCCTTCGACACCTGCAAGCCGCCCGAGGAGCAGCTCACCTTCAAGGA
+     |                                            |
+  2003                                            2048
+
+Length = 50
+Start = position 1640 of sequence
+End = position 1689 of sequence
+
+Motif = VWFC_1
+
+GTCTCCGAGCTCGAGCTGCCTGCCGACCCCAAATGGGAGCTGTCTCGGGCCCGGCTGACC
+     |                                                |
+  1640                                                1689
+
+Length = 48
+Start = position 1579 of sequence
+End = position 1626 of sequence
+
+Motif = VWFC_1
+
+CAACACACCACTGGTGCGCATCGCAAGGCTGTCCTCAGGGGAGGGCCCCACGCTGGCC
+     |                                              |
+  1579                                              1626
+
+Length = 53
+Start = position 1574 of sequence
+End = position 1626 of sequence
+
+Motif = VWFC_1
+
+AGCTCCAACACACCACTGGTGCGCATCGCAAGGCTGTCCTCAGGGGAGGGCCCCACGCTGGCC
+     |                                                   |
+  1574                                                   1626
+
+Length = 54
+Start = position 1573 of sequence
+End = position 1626 of sequence
+
+Motif = VWFC_1
+
+GAGCTCCAACACACCACTGGTGCGCATCGCAAGGCTGTCCTCAGGGGAGGGCCCCACGCTGGCC
+     |                                                    |
+  1573                                                    1626
+
+Length = 57
+Start = position 1505 of sequence
+End = position 1561 of sequence
+
+Motif = VWFC_1
+
+CCCACCGTGCACAAGATCTCCCGCTTCCCGCTCAAGCGACAGGTGTCCCTGGAGTCCAACGCGTCCA
+     |                                                       |
+  1505                                                       1561
+
+Length = 52
+Start = position 1178 of sequence
+End = position 1229 of sequence
+
+Motif = VWFC_1
+
+CCGGACGGCACACCCTACGTTACCGTGCTCAAGACGGCGGGCGCTAACACCACCGACAAGGA
+     |                                                  |
+  1178                                                  1229
+
+Length = 44
+Start = position 1023 of sequence
+End = position 1066 of sequence
+
+Motif = VWFC_1
+
+GCTCCCCGCACCGGCCCATCCTGCAGGCGGGGCTGCCGGCCAACCAGACGGCGG
+     |                                          |
+  1023                                          1066
+
+Length = 45
+Start = position 1022 of sequence
+End = position 1066 of sequence
+
+Motif = VWFC_1
+
+CGCTCCCCGCACCGGCCCATCCTGCAGGCGGGGCTGCCGGCCAACCAGACGGCGG
+     |                                           |
+  1022                                           1066
+
+Length = 48
+Start = position 994 of sequence
+End = position 1041 of sequence
+
+Motif = VWFC_1
+
+GCAGACGTACACGCTGGACGTGCTGGAGCGCTCCCCGCACCGGCCCATCCTGCAGGCG
+     |                                              |
+   994                                              1041
+
+Length = 52
+Start = position 866 of sequence
+End = position 917 of sequence
+
+Motif = VWFC_1
+
+CGCGGCGAGCACCGCATTGGAGGCATCAAGCTGCGGCATCAGCAGTGGAGCCTGGTCATGGA
+     |                                                  |
+   866                                                  917
+
+Length = 44
+Start = position 823 of sequence
+End = position 866 of sequence
+
+Motif = VWFC_1
+
+CCCCACTCCCTCCATCTCCTGGCTGAAGAACGGCAGGGAGTTCCGCGGCGAGCA
+     |                                          |
+   823                                          866
+
+Length = 47
+Start = position 820 of sequence
+End = position 866 of sequence
+
+Motif = VWFC_1
+
+CAACCCCACTCCCTCCATCTCCTGGCTGAAGAACGGCAGGGAGTTCCGCGGCGAGCA
+     |                                             |
+   820                                             866
+
+Length = 48
+Start = position 819 of sequence
+End = position 866 of sequence
+
+Motif = VWFC_1
+
+GCAACCCCACTCCCTCCATCTCCTGGCTGAAGAACGGCAGGGAGTTCCGCGGCGAGCA
+     |                                              |
+   819                                              866
+
+Length = 49
+Start = position 818 of sequence
+End = position 866 of sequence
+
+Motif = VWFC_1
+
+GGCAACCCCACTCCCTCCATCTCCTGGCTGAAGAACGGCAGGGAGTTCCGCGGCGAGCA
+     |                                               |
+   818                                               866
+
+Length = 54
+Start = position 782 of sequence
+End = position 835 of sequence
+
+Motif = VWFC_1
+
+GCCGCCAACACCGTCCGCTTCCGCTGCCCAGCCGCTGGCAACCCCACTCCCTCCATCTCCTGGC
+     |                                                    |
+   782                                                    835
+
+Length = 55
+Start = position 781 of sequence
+End = position 835 of sequence
+
+Motif = VWFC_1
+
+GGCCGCCAACACCGTCCGCTTCCGCTGCCCAGCCGCTGGCAACCCCACTCCCTCCATCTCCTGGC
+     |                                                     |
+   781                                                     835
+
+Length = 42
+Start = position 299 of sequence
+End = position 340 of sequence
+
+Motif = VWFC_1
+
+GCCCTCGCGCTCTGCGTGGCCGTGGCCATCGTGGCCGGCGCCTCCTCGGAGT
+     |                                        |
+   299                                        340
+
+Length = 48
+Start = position 293 of sequence
+End = position 340 of sequence
+
+Motif = VWFC_1
+
+GCCTGCGCCCTCGCGCTCTGCGTGGCCGTGGCCATCGTGGCCGGCGCCTCCTCGGAGT
+     |                                              |
+   293                                              340
+
+Length = 50
+Start = position 190 of sequence
+End = position 239 of sequence
+
+Motif = VWFC_1
+
+GCGCCCGCCTCCCGCCGGTGCCCGCGCCGGGCCGTGGGGGGCAGCATGCCCGCGCGCGCT
+     |                                                |
+   190                                                239
+
+Length = 51
+Start = position 189 of sequence
+End = position 239 of sequence
+
+Motif = VWFC_1
+
+GGCGCCCGCCTCCCGCCGGTGCCCGCGCCGGGCCGTGGGGGGCAGCATGCCCGCGCGCGCT
+     |                                                 |
+   189                                                 239
+
+Length = 47
+Start = position 171 of sequence
+End = position 217 of sequence
+
+Motif = VWFC_1
+
+CTCGCCAGTCTCCCGAGCGGCGCCCGCCTCCCGCCGGTGCCCGCGCCGGGCCGTGGG
+     |                                             |
+   171                                             217
+
+Length = 59
+Start = position 154 of sequence
+End = position 212 of sequence
+
+Motif = VWFC_1
+
+CGAGCCGGGCTCCGGCGCTCGCCAGTCTCCCGAGCGGCGCCCGCCTCCCGCCGGTGCCCGCGCCGGGCC
+     |                                                         |
+   154                                                         212
+
+Length = 42
+Start = position 47 of sequence
+End = position 88 of sequence
+
+Motif = VWFC_1
+
+CGGTCCTGCTCTGCCGGTCGCACGGACGCACCGGCGGGCCGCCGGCCGGAGG
+     |                                        |
+    47                                        88
+
+Length = 43
+Start = position 46 of sequence
+End = position 88 of sequence
+
+Motif = VWFC_1
+
+GCGGTCCTGCTCTGCCGGTCGCACGGACGCACCGGCGGGCCGCCGGCCGGAGG
+     |                                         |
+    46                                         88
+
+
+#---------------------------------------
+#
+# Motif: EGF_1
+# Count: 34
+# 
+# ******************************************
+# * EGF-like domain signatures and profile *
+# ******************************************
+# 
+# A sequence of  about thirty  to forty amino-acid  residues  long found in  the
+# sequence of  epidermal  growth  factor  (EGF)  has been  shown  [1 to 6] to be
+# present, in  a more or less conserved form, in a large number of other, mostly
+# animal  proteins.  EGF  is  a  polypeptide  of about 50 amino acids with three
+# internal  disulfide  bridges.  It  first  binds with high affinity to specific
+# cell-surface receptors and then induces their dimerization, which is essential
+# for  activating  the  tyrosine  kinase  in  the  receptor  cytoplasmic domain,
+# initiating  a  signal  transduction  that  results  in  DNA synthesis and cell
+# proliferation.
+# 
+# A  common  feature  of  all  EGF-like  domains  is  that they are found in the
+# extracellular  domain  of  membrane-bound  proteins or in proteins known to be
+# secreted (exception: prostaglandin G/H synthase). The EGF-like domain includes
+# six cysteine residues which have been shown to be involved in disulfide bonds.
+# The  structure  of several EGF-like domains has been solved. The fold consists
+# of   two-stranded  beta-sheet  followed  by  a  loop  to  a  C-terminal  short
+# two-stranded sheet   (see   <PDB:1EGF>).   Subdomains  between  the  conserved
+# cysteines strongly  vary  in  length  as  shown  in  the  following  schematic
+# representation of the EGF-like domain:
+# 
+#                  +-------------------+        +-------------------------+
+#                  |                   |        |                         |
+#   x(4)-C-x(0,48)-C-x(3,12)-C-x(1,70)-C-x(1,6)-C-x(2)-G-a-x(0,21)-G-x(2)-C-x
+#        |                   |         ************************************
+#        +-------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# 'G': often conserved glycine
+# 'a': often conserved aromatic amino acid
+# '*': position of both patterns.
+# 'x': any residue
+# 
+# Some  proteins  known  to contain one or more copies of an EGF-like domain are
+# listed below.
+# 
+#  - Adipocyte differentiation inhibitor (gene PREF-1) from mouse (6 copies).
+#  - Agrin, a basal lamina protein  that causes the aggregation of acetylcholine
+#    receptors on cultured muscle fibers (4 copies).
+#  - Amphiregulin, a growth factor (1 copy).
+#  - Betacellulin, a growth factor (1 copy).
+#  - Blastula  proteins  BP10  and  Span from sea urchin which are thought to be
+#    involved in pattern formation (1 copy).
+#  - BM86, a glycoprotein antigen of cattle tick (7 copies).
+#  - Bone morphogenic protein 1 (BMP-1), a  protein which induces cartilage  and
+#    bone formation  and  which  expresses  metalloendopeptidase  activity  (1-2
+#    copies). Homologous proteins are found in sea urchin - suBMP (1 copy) - and
+#    in Drosophila - the dorsal-ventral patterning protein tolloid (2 copies).
+#  - Caenorhabditis elegans developmental proteins lin-12 (13 copies)  and glp-1
+#    (10 copies).
+#  - Caenorhabditis elegans apx-1 protein, a patterning protein (4.5 copies).
+#  - Calcium-dependent serine proteinase (CASP) which degrades the extracellular
+#    matrix proteins type I and IV collagen and fibronectin (1 copy).
+#  - Cartilage matrix protein CMP (1 copy).
+#  - Cartilage oligomeric matrix protein COMP (4 copies).
+#  - Cell surface antigen 114/A10 (3 copies).
+#  - Cell surface glycoprotein complex transmembrane subunit ASGP-2  from rat (2
+#    copies).
+#  - Coagulation associated proteins C, Z (2 copies) and S (4 copies).
+#  - Coagulation factors VII, IX, X and XII (2 copies).
+#  - Complement C1r components (1 copy).
+#  - Complement C1s components (1 copy).
+#  - Complement-activating component of Ra-reactive factor (RARF) (1 copy).
+#  - Complement components C6, C7, C8 alpha and beta chains, and C9 (1 copy).
+#  - Crumbs, an epithelial development protein from Drosophila (29 copies).
+#  - Epidermal growth factor precursor (7-9 copies).
+#  - Exogastrula-inducing peptides A, C, D and X from sea urchin (1 copy).
+#  - Fat protein, a Drosophila cadherin-related tumor suppressor (5 copies).
+#  - Fetal  antigen  1, a probable neuroendocrine differentiation protein, which
+#    is derived from the delta-like protein (DLK) (6 copies).
+#  - Fibrillin 1 (47 copies) and fibrillin 2 (14 copies).
+#  - Fibropellins  IA  (21 copies), IB (13 copies), IC (8 copies), II (4 copies)
+#    and III   (8   copies)  from  the  apical  lamina  -  a  component  of  the
+#    extracellular matrix - of sea urchin.
+#  - Fibulin-1 and -2, two extracellular matrix proteins (9-11 copies).
+#  - Giant-lens  protein (protein Argos), which regulates cell determination and
+#    axon guidance in the Drosophila eye (1 copy).
+#  - Growth factor-related proteins from various poxviruses (1 copy).
+#  - Gurken protein, a Drosophila developmental protein (1 copy).
+#  - Heparin-binding EGF-like growth factor (HB-EGF), transforming growth factor
+#    alpha (TGF-alpha), growth factors Lin-3 and Spitz (1 copy);  the precursors
+#    are membrane proteins, the mature form is located extracellular.
+#  - Hepatocyte growth factor (HGF) activator (EC 3.4.21.-) (2 copies).
+#  - LDL  and  VLDL receptors, which bind and transport low-density lipoproteins
+#    and very low-density lipoproteins (3 copies).
+#  - LDL  receptor-related  protein  (LRP), which  may  act  as  a  receptor for
+#    endocytosis of extracellular ligands (22 copies).
+#  - Leucocyte  antigen  CD97  (3  copies),  cell  surface  glycoprotein EMR1 (6
+#    copies) and cell surface glycoprotein F4/80 (7 copies).
+#  - Limulus clotting factor C, which is involved in hemostasis and host defense
+#    mechanisms in japanese horseshoe crab (1 copy).
+#  - Meprin A alpha subunit, a mammalian membrane-bound endopeptidase (1 copy).
+#  - Milk fat globule-EGF factor 8 (MFG-E8) from mouse (2 copies).
+#  - Neuregulin GGF-I and GGF-II, two human glial growth factors (1 copy).
+#  - Neurexins from mammals (3 copies).
+#  - Neurogenic  proteins  Notch, Xotch and the human homolog Tan-1 (36 copies),
+#    Delta (9  copies)  and  the  similar  differentiation  proteins  Lag-2 from
+#    Caenorhabditis elegans (2  copies), Serrate (14 copies) and Slit (7 copies)
+#    from Drosophila.
+#  - Nidogen  (also called entactin), a basement membrane protein from chordates
+#    (2-6 copies).
+#  - Ookinete surface proteins (24 Kd, 25 Kd, 28 Kd) from Plasmodium (4 copies).
+#  - Pancreatic secretory granule membrane major glycoprotein GP2 (1 copy).
+#  - Perforin, which lyses non-specifically a variety of target cells (1 copy).
+#  - Proteoglycans  aggrecan (1 copy), versican (2 copies), perlecan (at least 2
+#    copies), brevican (1 copy) and chondroitin sulfate proteoglycan (gene PG-M)
+#    (2 copies).
+#  - Prostaglandin G/H synthase 1 and 2  (EC 1.14.99.1) (1 copy), which is found
+#    in the endoplasmatic reticulum.
+#  - Reelin, an extracellular matrix protein  that  plays a role in  layering of
+#    neurons in the cerebral cortex and cerebellum of mammals (8 copies).
+#  - S1-5,  a  human  extracellular  protein whose ultimate activity is probably
+#    modulated by the environment (5 copies).
+#  - Schwannoma-derived growth factor (SDGF), an autocrine growth factor as well
+#    as a mitogen for different target cells (1 copy).
+#  - Selectins. Cell  adhesion  proteins such  as  ELAM-1 (E-selectin),  GMP-140
+#    (P-selectin), or the lymph-node homing receptor (L-selectin) (1 copy).
+#  - Serine/threonine-protein  kinase  homolog  (gene  Pro25)  from  Arabidopsis
+#    thaliana, which  may   be   involved   in   assembly   or   regulation   of
+#    light-harvesting chlorophyll A/B protein (2 copies).
+#  - Sperm-egg fusion proteins PH-30 alpha and beta from guinea pig (1 copy).
+#  - Stromal cell derived protein-1 (SCP-1) from mouse (6 copies).
+#  - TDGF-1, human teratocarcinoma-derived growth factor 1 (1 copy).
+#  - Tenascin  (or  neuronectin),  an  extracellular matrix protein from mammals
+#    (14.5 copies), chicken (TEN-A) (13.5 copies) and the related proteins human
+#    tenascin-X (18  copies)  and  tenascin-like  proteins  TEN-A and TEN-M from
+#    Drosophila (8 copies).
+#  - Thrombomodulin   (fetomodulin),  which  together  with  thrombin  activates
+#    protein C (6 copies).
+#  - Thrombospondin  1, 2 (3 copies), 3 and 4 (4 copies), adhesive glycoproteins
+#    that mediate cell-to-cell and cell-to-matrix interactions.
+#  - Thyroid peroxidase 1 and 2 (EC 2.7.10.1) from human (1 copy).
+#  - Transforming  growth  factor  beta-1  binding protein (TGF-B1-BP) (16 or 18
+#    copies).
+#  - Tyrosine-protein kinase receptors Tek and Tie (EC 2.7.1.112) (3 copies).
+#  - Urokinase-type  plasminogen  activator  (EC  3.4.21.73)  (UPA)  and  tissue
+#    plasminogen activator (EC 3.4.21.68) (TPA) (1 copy).
+#  - Uromodulin (Tamm-horsfall urinary glycoprotein) (THP) (3 copies).
+#  - Vitamin  K-dependent  anticoagulants  protein C (2 copies) and protein S (4
+#    copies) and  the  similar  protein Z, a single-chain plasma glycoprotein of
+#    unknown function (2 copies).
+#  - 63 Kd sperm flagellar membrane protein from sea urchin (3 copies).
+#  - 93 Kd protein (gene nel) from chicken (5 copies).
+#  - Hypothetical  337.6  Kd  protein  T20G5.3  from  Caenorhabditis elegans (44
+#    copies).
+# 
+# The region between the 5th and 6th cysteine contains two conserved glycines of
+# which at  least  one  is  present  in  most  EGF-like  domains. We created two
+# patterns for  this  domain,  each  including one of these C-terminal conserved
+# glycine residues. The profile we developed covers the whole domain.
+# 
+# -Consensus pattern: C-x-C-x(2)-{V}-x(2)-G-{C}-x-C
+#                     [The 3 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+#  but not  those  that  have very long or very short regions between the last 3
+#  conserved cysteines of their EGF-like domain(s).
+# -Other sequence(s)  detected  in  Swiss-Prot:  87 proteins, of which 27 can be
+#  considered as possible candidates.
+# 
+# -Consensus pattern: C-x-C-x(2)-[GP]-[FYW]-x(4,8)-C
+#                     [The 3 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+#  but not  those  that  have very long or very short regions between the last 3
+#  conserved cysteines of their EGF-like domain(s).
+# -Other sequence(s)  detected  in  Swiss-Prot:  83 proteins, of which 49 can be
+#  considered as possible candidates.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note: The  beta chain of the integrin family of proteins contains 2 cysteine-
+#  rich repeats  which were said to be dissimilar with the EGF pattern [7].
+# -Note: Laminin  EGF-like repeats (see <PDOC00961>) are longer than the average
+#  EGF module  and  contain  a further disulfide bond C-terminal of the EGF-like
+#  region. Perlecan  and  agrin  contain  both EGF-like domains and laminin-type
+#  EGF-like domains.
+# -Note: The  pattern do not detect all of the repeats of proteins with multiple
+#  EGF-like repeats.
+# -Note: See <PDOC00913> for an entry describing specifically the subset of EGF-
+#  like domains that bind calcium.
+# 
+# -Last update: April 2006 / Pattern revised.
+# 
+# [ 1] Davis C.G.
+#      "The many faces of epidermal growth factor repeats."
+#      New Biol. 2:410-419(1990).
+#      PubMed=2288911
+# [ 2] Blomquist M.C., Hunt L.T., Barker W.C.
+#      "Vaccinia virus 19-kilodalton protein: relationship to several
+#      mammalian proteins, including two growth factors."
+#      Proc. Natl. Acad. Sci. U.S.A. 81:7363-7367(1984).
+#      PubMed=6334307
+# [ 3] Barker W.C., Johnson G.C., Hunt L.T., George D.G.
+#      Protein Nucl. Acid Enz. 29:54-68(1986).
+# [ 4] Doolittle R.F., Feng D.F., Johnson M.S.
+#      "Computer-based characterization of epidermal growth factor
+#      precursor."
+#      Nature 307:558-560(1984).
+#      PubMed=6607417
+# [ 5] Appella E., Weber I.T., Blasi F.
+#      "Structure and function of epidermal growth factor-like regions in
+#      proteins."
+#      FEBS Lett. 231:1-4(1988).
+#      PubMed=3282918
+# [ 6] Campbell I.D., Bork P.
+#      Curr. Opin. Struct. Biol. 3:385-392(1993).
+# [ 7] Tamkun J.W., DeSimone D.W., Fonda D., Patel R.S., Buck C.,
+#      Horwitz A.F., Hynes R.O.
+#      "Structure of integrin, a glycoprotein involved in the transmembrane
+#      linkage between fibronectin and actin."
+#      Cell 46:271-282(1986).
+#      PubMed=3487386
+# 
+# ***************
+# 
+# Motif: THIOLASE_3
+# Count: 4
+# 
+# ************************
+# * Thiolases signatures *
+# ************************
+# 
+# Two different  types  of thiolase [1,2,3] are found  both in eukaryotes and in
+# prokaryotes: acetoacetyl-CoA thiolase (EC 2.3.1.9) and 3-ketoacyl-CoA thiolase
+# (EC 2.3.1.16).  3-ketoacyl-CoA thiolase (also called thiolase I)  has  a broad
+# chain-length specificity  for  its substrates and is involved   in degradative
+# pathways  such as  fatty acid  beta-oxidation.  Acetoacetyl-CoA thiolase (also
+# called thiolase  II)  is  specific  for  the  thiolysis of acetoacetyl-CoA and
+# involved in biosynthetic pathways such  as poly beta-hydroxybutyrate synthesis
+# or steroid biogenesis.
+# 
+# In eukaryotes, there are two forms of 3-ketoacyl-CoA thiolase: one  located in
+# the mitochondrion and the other in peroxisomes.
+# 
+# There are two conserved cysteine residues important for thiolase activity. The
+# first located  in  the  N-terminal  section  of the enzymes is involved in the
+# formation of an acyl-enzyme intermediate; the second located at the C-terminal
+# extremity is   the   active   site  base  involved  in  deprotonation  in  the
+# condensation reaction.
+# 
+# Mammalian nonspecific  lipid-transfer  protein (nsL-TP)  (also known as sterol
+# carrier protein 2) is a protein which seems  to exist  in two different forms:
+# a 14  Kd  protein  (SCP-2)  and  a larger 58 Kd protein (SCP-x). The former is
+# found in the cytoplasm or the mitochondria and is involved in lipid transport;
+# the latter is found in peroxisomes.  The C-terminal part of SCP-x is identical
+# to SCP-2  while  the  N-terminal  portion is evolutionary related to thiolases
+# [4].
+# 
+# We developed  three  signature  patterns  for  this family of proteins, two of
+# which are  based  on  the regions around the biologically important cysteines.
+# The third  is  based  on  a  highly conserved region in the C-terminal part of
+# these proteins.
+# 
+# -Consensus pattern: [LIVM]-[NST]-{T}-x-C-[SAGLI]-[ST]-[SAG]-[LIVMFYNS]-x-
+#                     [STAG]-[LIVM]-x(6)-[LIVM]
+#                     [C is involved in formation of acyl-enzyme intermediate]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: 5.
+# 
+# -Consensus pattern: N-x(2)-G(2)-x-[LIVM]-[SA]-x-G-H-P-x-[GAS]-x-[ST]-G
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Consensus pattern: [AG]-[LIVMA]-[STAGCLIVM]-[STAG]-[LIVMA]-C-{Q}-[AG]-x-[AG]-
+#                     x-[AG]-x-[SAG]
+#                     [C is the active site residue]
+# -Sequences known to belong to this class detected by the pattern: ALL,  except
+#  for nsL-TP.
+# -Other sequence(s) detected in Swiss-Prot: 8.
+# 
+# -Last update: April 2006 / Patterns revised.
+# 
+# [ 1] Peoples O.P., Sinskey A.J.
+#      "Poly-beta-hydroxybutyrate biosynthesis in Alcaligenes eutrophus H16.
+#      Characterization of the genes encoding beta-ketothiolase and
+#      acetoacetyl-CoA reductase."
+#      J. Biol. Chem. 264:15293-15297(1989).
+#      PubMed=2670935
+# [ 2] Yang S.-Y., Yang X.-Y.H., Healy-Louie G., Schulz H., Elzinga M.
+#      "Nucleotide sequence of the fadA gene. Primary structure of
+#      3-ketoacyl-coenzyme A thiolase from Escherichia coli and the
+#      structural organization of the fadAB operon."
+#      J. Biol. Chem. 265:10424-10429(1990).
+#      PubMed=2191949
+# [ 3] Igual J.C., Gonzalez-Bosch C., Dopazo J., Perez-Ortin J.E.
+#      "Phylogenetic analysis of the thiolase family. Implications for the
+#      evolutionary origin of peroxisomes."
+#      J. Mol. Evol. 35:147-155(1992).
+#      PubMed=1354266
+# [ 4] Baker M.E., Billheimer J.T., Strauss J.F. III
+#      "Similarity between the amino-terminal portion of mammalian 58-kD
+#      sterol carrier protein (SCPx) and Escherichia coli acetyl-CoA
+#      acyltransferase: evidence for a gene fusion in SCPx."
+#      DNA Cell Biol. 10:695-698(1991).
+#      PubMed=1755959
+# 
+# ***************
+# 
+# Motif: 2FE2S_FER_1
+# Count: 10
+# 
+# ***************************************************************************
+# * 2Fe-2S ferredoxin-type iron-sulfur binding domain signature and profile *
+# ***************************************************************************
+# 
+# Ferredoxins  are small, acidic, electron transfer proteins that are ubiquitous
+# in  biological  redox  systems.  They  have  either  4Fe-4S, 3Fe-4S, or 2Fe-2S
+# cluster.  Among  them,  ferredoxin  with  one  2Fe-2S cluster per molecule are
+# present  in  plants, animals, and bacteria, and form a distinct 2Fe-Ferredoxin
+# family  [1,2].  They  are proteins of around one hundred amino acids with four
+# conserved  cysteine  residues  to  which  the  2Fe-2S cluster is ligated. This
+# conserved region is also found as a domain in various metabolic enzymes.
+# 
+# Several  structures  of the 2Fe-2S ferredoxin domain have been determined (see
+# for example <PDB:4FXC>) [3]. The domain is classified as a beta-grasp which is
+# characterized  as  having  a beta-sheet comprised of four beta-strands and one
+# alpha-helix  flanking  the  sheet  [4].  The  two  Fe  atoms  are  coordinated
+# tetrahedrally by the two inorganic S atoms and four cysteinyl S atoms.
+# 
+# Some proteins that contains a 2Fe-2S ferredoxin-type domain are listed below:
+# 
+#  - Ferredoxin from photosynthetic organisms;  namely plants and algae where it
+#    is located in the chloroplast or cyanelle; and cyanobacteria.
+#  - Ferredoxin from archaebacteria of the Halobacterium genus.
+#  - Ferredoxin IV (gene pftA) and V (gene fdxD) from Rhodobacter capsulatus.
+#  - Ferredoxin in the  toluene  degradation  operon (gene xylT) and naphthalene
+#    degradation operon (gene nahT) of Pseudomonas putida.
+#  - Hypothetical Escherichia coli protein yfaE.
+# 
+#  - The N-terminal domain  of the  bifunctional ferredoxin/ferredoxin reductase
+#    electron  transfer  component of the benzoate 1,2-dioxygenase complex (gene
+#    benC) from Acinetobacter calcoaceticus, the toluene 4-monooxygenase complex
+#    (gene tmoF), the toluate 1,2-dioxygenase system (gene xylZ), and the xylene
+#    monooxygenase system (gene xylA) from Pseudomonas.
+#  - The N-terminal domain of  phenol  hydroxylase  protein  p5 (gene dmpP) from
+#    Pseudomonas Putida.
+#  - The N-terminal domain of  methane  monooxygenase   component C  (gene mmoC)
+#    from Methylococcus capsulatus .
+#  - The C-terminal domain of the vanillate degradation pathway  protein vanB in
+#    a Pseudomonas species.
+#  - The N-terminal domain of bacterial  fumarate  reductase iron-sulfur protein
+#    (gene frdB).
+#  - The  N-terminal  domain  of CDP-6-deoxy-3,4-glucoseen reductase (gene ascD)
+#    from Yersinia pseudotuberculosis.
+#  - The central domain of eukaryotic succinate dehydrogenase (ubiquinone) iron-
+#    sulfur protein.
+#  - The N-terminal domain of eukaryotic xanthine dehydrogenase.
+#  - The N-terminal domain of eukaryotic aldehyde oxidase.
+# 
+# Three  of  the  four  conserved  cysteines  are clustered together in the same
+# region  of  the  protein. Our signature pattern spans that iron-sulfur binding
+# region. We also developed a profile that covers the whole domain.
+# 
+# -Consensus pattern: C-{C}-{C}-[GA]-{C}-C-[GAST]-{CPDEKRHFYW}-C
+#                     [The 3 C's are 2Fe-2S ligands]
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note:  Ferredoxins  from the adrenodoxin subfamily are slightly divergent and
+#  are not picked up by our pattern (but they are recognized by the profile). We
+#  have  thus  developed  a  second  pattern  specific  for  this subfamily (see
+#  <PDOC00642>).
+# 
+# -Last update: March 2005 / Text revised; profile added.
+# 
+# [ 1] Meyer J.
+#      Trends Ecol. Evol. 3:222-226(1988).
+# [ 2] Harayama S., Polissi A., Rekik M.
+#      "Divergent evolution of chloroplast-type ferredoxins."
+#      FEBS Lett. 285:85-88(1991).
+#      PubMed=2065785
+# [ 3] Fukuyama K., Ueki N., Nakamura H., Tsukihara T., Matsubara H.
+#      "Tertiary structure of [2Fe-2S] ferredoxin from Spirulina platensis
+#      refined at 2.5 A resolution: structural comparisons of plant-type
+#      ferredoxins and an electrostatic potential analysis."
+#      J. Biochem. 117:1017-1023(1995).
+#      PubMed=8586613
+# [ 4] Overington J.P.
+#      Curr. Opin. Struct. Biol. 2:394-401(1992).
+# 
+# ***************
+# 
+# Motif: 4FE4S_FER_1
+# Count: 3
+# 
+# ***************************************************************************
+# * 4Fe-4S ferredoxin-type iron-sulfur binding domain signature and profile *
+# ***************************************************************************
+# 
+# Ferredoxins  [1]  are a group  of  iron-sulfur proteins which mediate electron
+# transfer in  a  wide variety  of   metabolic  reactions.   Ferredoxins  can be
+# divided into several subgroups  depending upon the physiological nature of the
+# iron-sulfur  cluster(s).   One of these  subgroups are the 4Fe-4S ferredoxins,
+# which  are  found  in   bacteria  and  which   are thus  often    referred  as
+# 'bacterial-type' ferredoxins.  The structure of these proteins [2] consists of
+# the duplication of a  domain of twenty six amino  acid residues; each of these
+# domains contains four cysteine residues that bind to a 4Fe-4S center.
+# 
+# Several  structures  of the 4Fe-4S ferredoxin domain have been determined (see
+# for  example <PDB:1FDN>) [3]. The clusters consist of two interleaved 4Fe- and
+# 4S-tetrahedra  forming  a  cubane-like  structure, in such a way that the four
+# iron  occupy the eight corners of a distorted cube. Each 4Fe-4S is attached to
+# the polypeptide chain by four covalent Fe-S bonds involving cysteine residues.
+# 
+# A number  of  proteins  have  been found [4]  that  include one or more 4Fe-4S
+# binding domains similar to those of bacterial-type ferredoxins. These proteins
+# are  listed  below:
+# 
+#  - The iron-sulfur proteins  of  the succinate  dehydrogenase and the fumarate
+#    reductase  complexes (EC 1.3.99.1).  These  enzyme   complexes,  which  are
+#    components of the tricarboxylic  acid cycle, each contain three subunits: a
+#    flavoprotein,  an iron-sulfur protein,  and a b-type cytochrome.  The iron-
+#    sulfur proteins contain three  different  iron-sulfur  centers: a 2Fe-2S, a
+#    3Fe-4S  and a 4Fe-4S.
+#  - Escherichia coli anaerobic glycerol-3-phosphate dehydrogenase (EC 1.1.99.5)
+#    This enzyme is composed of three subunits: A, B, and C. The C subunit seems
+#    to be an  iron-sulfur  protein  with  two ferredoxin-like domains in the N-
+#    terminal part of the  protein.
+#  - Escherichia coli anaerobic dimethyl sulfoxide reductase.  The  B subunit of
+#    this  enzyme  (gene dmsB)  is  an  iron-sulfur  protein  with  four  4Fe-4S
+#    ferredoxin-like domains.
+#  - Escherichia coli  formate  hydrogenlyase.  Two   of  the  subunits  of this
+#    oligomeric complex (genes hycB and hycF) seem  to  be  iron-sulfur proteins
+#    that each contain two 4Fe-4S ferredoxin-like domains.
+#  - Methanobacterium formicicum formate dehydrogenase (EC 1.2.1.2). This enzyme
+#    is used by the archaebacteria  to grow on formate.  The  beta chain of this
+#    dimeric enzyme probably binds two 4Fe-4S centers.
+#  - Escherichia  coli  formate  dehydrogenases  N  and O (EC 1.2.1.2). The beta
+#    chain  of these two enzymes (genes fdnH and fdoH) are  iron-sulfur proteins
+#    with four 4Fe-4S ferredoxin-like domains.
+#  - Desulfovibrio periplasmic [Fe] hydrogenase (EC 1.18.99.1).  The large chain
+#    of this dimeric enzyme binds three 4Fe-4S centers, two of which are located
+#    in the ferredoxin-like N-terminal region of the protein.
+#  - Methanobacterium  thermoautrophicum  methyl  viologen-reducing  hydrogenase
+#    subunit mvhB, which contains six  tandemly repeated ferredoxin-like domains
+#    and which probably binds twelve 4Fe-4S centers.
+#  - Salmonella typhimurium anaerobic sulfite reductase (EC 1.8.1.-) [5]. Two of
+#    the subunits of  this enzyme (genes asrA and asrC) seem  to  both  bind two
+#    4Fe-4S centers.
+#  - A Ferredoxin-like protein  (gene fixX)  from  the  nitrogen-fixation  genes
+#    locus of various  Rhizobium  species,  and   one  from  the  Nif-region  of
+#    Azotobacter species.
+#  - The 9 Kd  polypeptide  of chloroplast photosystem I [6]  (gene psaC).  This
+#    protein contains two low potential 4Fe-4S centers, referred as  the A and B
+#    centers.
+#  - The chloroplast frxB protein which is predicted to carry two 4Fe-4S centers.
+#  - An ferredoxin  from a  primitive  eukaryote,  the enteric amoeba  Entamobea
+#    histolytica.
+#  - Escherichia  coli  hypothetical  protein  yjjW, a protein with a N-terminal
+#    region belonging to the radical activating enzymes family (see <PDOC00834>)
+#    and two potential 4Fe-4S centers.
+# 
+# The  pattern  of  cysteine residues in the iron-sulfur region is sufficient to
+# detect  this class of 4Fe-4S binding proteins. The profile we developed covers
+# the whole domain.
+# 
+# -Consensus pattern: C-x-{P}-C-x(2)-C-{CP}-x(2)-C-[PEG]
+#                     [The 4 C's are 4Fe-4S ligands]
+# -Sequences known to belong to this class detected by the profile: ALL.
+#  of known 4Fe-4S sequences, with very few exceptions.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note: In some  bacterial  ferredoxins,  one of the two duplicated domains has
+#  lost one or  more of  the four conserved  cysteines.  The consequence of such
+#  variations is that these domains  have  either lost their iron-sulfur binding
+#  property or bind to a 3Fe-4S center instead of a 4Fe-4S center.
+# -Note: The last residue of this  pattern in most  proteins  belonging  to this
+#  group,  is a Pro; the  only  exceptions  are  the  Rhizobium  ferredoxin-like
+#  proteins which have Gly, and two Desulfovibrio ferredoxins which have Glu. It
+#  must also be noted that  the  three  non  4Fe-4S-binding  proteins  which are
+#  picked-up by the pattern have Gly in this position of the pattern.
+# 
+# -Last update: April 2008 / Text revised; profile added.
+# 
+# [ 1] Meyer J.
+#      "The evolution of ferredoxins."
+#      Trends Ecol. Evol. 3:222-226(1988).
+# [ 2] Otaka E., Ooi T.
+#      "Examination of protein sequence homologies: IV. Twenty-seven
+#      bacterial ferredoxins."
+#      J. Mol. Evol. 26:257-267(1987).
+#      PubMed=3129571
+# [ 3] Duee E.D., Fanchon E., Vicat J., Sieker L.C., Meyer J., Moulis J.M.
+#      "Refined crystal structure of the 2[4Fe-4S] ferredoxin from
+#      Clostridium acidurici at 1.84 A resolution."
+#      J. Mol. Biol. 243:683-695(1994).
+#      PubMed=7966291
+# [ 4] Beinert H.
+#      "Recent developments in the field of iron-sulfur proteins."
+#      FASEB J. 4:2483-2491(1990).
+#      PubMed=2185975
+# [ 5] Huang C.J., Barrett E.L.
+#      "Sequence analysis and expression of the Salmonella typhimurium asr
+#      operon encoding production of hydrogen sulfide from sulfite."
+#      J. Bacteriol. 173:1544-1553(1991).
+#      PubMed=1704886
+# [ 6] Knaff D.B.
+#      "The photosystem I reaction centre."
+#      Trends Biochem. Sci. 13:460-461(1988).
+# 
+# ***************
+# 
+# Motif: INTEGRIN_BETA
+# Count: 2
+# 
+# *******************************************************
+# * Integrins beta chain cysteine-rich domain signature *
+# *******************************************************
+# 
+# Integrins [1,2] are a large family of cell surface receptors that mediate cell
+# to cell as well as cell to matrix adhesion. Some integrins recognize the R-G-D
+# sequence in their extracellular matrix protein ligand. Structurally, integrins
+# consist of a dimer of an alpha and a beta chain.  Each  subunit  has  a  large
+# N-terminal extracellular domain followed by a transmembrane domain and a short
+# C-terminal cytoplasmic  region. Some receptors share a common beta chain while
+# having different  alpha chains.  The  sequence  of  a number of different beta
+# chains has been determined and are listed below:
+# 
+#  - Integrin beta-1, which  associates with alpha-1 to form a laminin receptor,
+#    with alpha-2 to form a  collagen receptor, with  alpha-4  to  interact with
+#    VCAM-1, with alpha-5 to form a fibronectin receptor, and with alpha-8.
+#  - Integrin beta-2, which  associates with alpha-L (LFA-1)  to  interact  with
+#    ICAM-1, and with alpha-M (MAC-1) or alpha-X  (p150,95) to form the receptor
+#    for the iC3b fragment of the third complement component.
+#  - Integrin beta-3, which associates with alpha-IIB  to  form  a  receptor for
+#    fibrinogen,  fibronectin,  vitronectin and VWF, and with alpha-V  to form a
+#    vitronectin receptor.
+#  - Integrin beta-4, which associates with alpha-6.
+#  - Integrin beta-5, which associates with alpha-V.
+#  - Integrin beta-6 [3].
+#  - Integrin beta-7 [4].
+#  - Integrin beta-8, which associates with alpha-V [5].
+#  - The Drosophila myospheroid protein, a probable integrin beta chain.
+# 
+# All the integrin beta chains contain four repeats of a forty amino acid region
+# in the C-terminal extremity of their extracellular domain. Each of the repeats
+# contains eight  cysteines.   We have developed a pattern from a section of the
+# repeated region that includes five of these conserved cysteines.
+# 
+# -Consensus pattern: C-x-[GNQ]-x(1,3)-G-x-C-x-C-x(2)-C-x-C
+#                     [The 5 C's may be involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note: The pattern will not pick up the first of the four repeats, the spacing
+#  of the cysteine residues being different in that repeat.
+# 
+# -Last update: May 2004 / Text revised.
+# 
+# [ 1] Hynes R.O.
+#      "Integrins: a family of cell surface receptors."
+#      Cell 48:549-554(1987).
+#      PubMed=3028640
+# [ 2] Albelda S.M., Buck C.A.
+#      "Integrins and other cell adhesion molecules."
+#      FASEB J. 4:2868-2880(1990).
+#      PubMed=2199285
+# [ 3] Sheppard D., Rozzo C., Starr L., Quaranta V., Erle D.J., Pytela R.
+#      "Complete amino acid sequence of a novel integrin beta subunit (beta
+#      6) identified in epithelial cells using the polymerase chain
+#      reaction."
+#      J. Biol. Chem. 265:11502-11507(1990).
+#      PubMed=2365683
+# [ 4] Erle D.J., Rueegg C., Sheppard D., Pytela R.
+#      "Complete amino acid sequence of an integrin beta subunit (beta 7)
+#      identified in leukocytes."
+#      J. Biol. Chem. 266:11009-11016(1991).
+#      PubMed=2040616
+# [ 5] Moyle M., Napier M.A., McLean J.W.
+#      "Cloning and expression of a divergent integrin subunit beta 8."
+#      J. Biol. Chem. 266:19650-19658(1991).
+#      PubMed=1918072
+# 
+# ***************
+# 
+# Motif: DEFENSIN
+# Count: 8
+# 
+# *********************************
+# * Mammalian defensins signature *
+# *********************************
+# 
+# Defensins [1   to   5],  also  known  as  alpha-defensins,  are  a  family  of
+# structurally related  cysteine-rich peptides active against many Gram-negative
+# and Gram-positive bacteria, fungi, and enveloped  viruses.  Some defensins are
+# also called corticostatins (CS) because they inhibit  corticotropin-stimulated
+# corticosteroid production.  Defensins kills cells by forming voltage-regulated
+# multimeric channels   in   the   susceptible  cell's  membrane.  They  play  a
+# significant role in innate immunity  to  infection and neoplasia. The peptides
+# known to belong to this family are listed below.
+# 
+#  - Rabbit defensins and  corticostatins:  CS-I (NP-3A),  CS-II (NP-3B), CS-III
+#    (MCP-1), CS-IV (MCP-2), NP-4, and NP-5.
+#  - Guinea-pig neutrophil defensin (GPNP).
+#  - Human neutrophil defensins 1 to 4 and intestinal defensins 5 and 6.
+#  - Mouse small bowel cryptdins 1 to 5.
+#  - Rat NP-1 to NP-4.
+# 
+# All these peptides range in length from 29 to 35 amino acids.  There are seven
+# invariant  residues,  including   six  cysteines  all  involved  in intrachain
+# disulfide bonds.     A schematic  representation of peptides from the defensin
+# family is shown below.
+# 
+#                   +----------------------------+
+#                   |****************************|
+#                 xxCxCxxxxxCxxxxxxxGxCxxxxxxxxxCCxx
+#                     |     |         |         |
+#                     +-----|---------+         |
+#                           +-------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# '*': position of the pattern.
+# 
+# Our pattern is based on the conserved residues.
+# 
+# -Consensus pattern: C-x-C-x(3,5)-C-x(7)-G-x-C-x(9)-C-C
+#                     [The 6 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL,  except
+#  for mouse cryptdin 4.
+# -Other sequence(s) detected in Swiss-Prot: 1.
+# 
+# -Last update: May 2004 / Text revised.
+# 
+# [ 1] Lehrer R.I., Ganz T., Selsted M.E.
+#      ASM News 56:315-318(1990).
+# [ 2] Lehrer R.I., Ganz T., Selsted M.E.
+#      "Defensins: endogenous antibiotic peptides of animal cells."
+#      Cell 64:229-230(1991).
+#      PubMed=1988144
+# [ 3] Kagan B.L., Ganz T., Lehrer R.I.
+#      "Defensins: a family of antimicrobial and cytotoxic peptides."
+#      Toxicology 87:131-149(1994).
+#      PubMed=7512758
+# [ 4] Lehrer R.I., Lichtenstein A.K., Ganz T.
+#      "Defensins: antimicrobial and cytotoxic peptides of mammalian cells."
+#      Annu. Rev. Immunol. 11:105-128(1993).
+#      PubMed=8476558; DOI=10.1146/annurev.iy.11.040193.000541
+# [ 5] White S.H., Wimley W.C., Selsted M.E.
+#      "Structure, function, and membrane integration of defensins."
+#      Curr. Opin. Struct. Biol. 5:521-527(1995).
+#      PubMed=8528769
+# 
+# ***************
+# 
+# Motif: ANAPHYLATOXIN_1
+# Count: 19
+# 
+# **********************************************
+# * Anaphylatoxin domain signature and profile *
+# **********************************************
+# 
+# Anaphylatoxins [1]  are  mediators  of  local inflammatory process that act by
+# inducing smooth muscle contraction. There are three  different anaphylatoxins:
+# C3a, C4a  and  C5a. They are peptides of about 75 amino-acid residues that are
+# derived from the proteolytic degradation of complement C3, C4 and C5 and which
+# contains six  disulfide-bonded cysteines [2] (see the schematic representation
+# below).
+# 
+#                           +--------------------+
+#             +-------------|------------+       |
+#             |             |            |       |
+#          xxxCCxxxxxxxxxxxxCxxxxxxxxxxxxCxxxxxxCCxxx
+#              |                                |
+#              +--------------------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# 
+# This cysteine-rich region shares similarity with a three times repeated domain
+# found in  the  mammalian extracellular matrix proteins fibulins 1 and 2 [3,4].
+# The three disulfide bonds are conserved in the first and last repeats, but the
+# first disulfide bond is missing in the second repeat.
+# 
+# Our consensus pattern spans the entire cysteine-rich domain.
+# 
+# -Consensus pattern: [CSH]-C-x(2)-[GAP]-x(7,8)-[GASTDEQR]-C-[GASTDEQL]-x(3,9)-
+#                     [GASTDEQN]-x(2)-[CE]-x(6,7)-C-C
+#                     [The 6 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Last update: May 2004 / Text revised.
+# 
+# [ 1] Hugli T.E.
+#      "Biochemistry and biology of anaphylatoxins."
+#      Complement 3:111-127(1986).
+#      PubMed=3542363
+# [ 2] Huber R., Scholze H., Paques E.P., Deisenhofer J.
+#      "Crystal structure analysis and molecular model of human C3a
+#      anaphylatoxin."
+#      Hoppe-Seyler's Z. Physiol. Chem. 361:1389-1399(1980).
+#      PubMed=7439885
+# [ 3] Argraves W.S., Tran H., Burgess W.H., Dickerson K.
+#      "Fibulin is an extracellular matrix and plasma glycoprotein with
+#      repeated domain structure."
+#      J. Cell Biol. 111:3155-3164(1990).
+#      PubMed=2269669
+# [ 4] Pan T.-C., Sasaki T., Zhang R.-Z., Faessler R., Timpl R., Chu M.L.
+#      "Structure and expression of fibulin-2, a novel extracellular matrix
+#      protein with multiple EGF-like repeats and consensus motifs for
+#      calcium binding."
+#      J. Cell Biol. 123:1269-1277(1993).
+#      PubMed=8245130
+# 
+# ***************
+# 
+# Motif: CTCK_1
+# Count: 5
+# 
+# ********************************************************
+# * C-terminal cystine knot domain signature and profile *
+# ********************************************************
+# 
+# The structures  of  transforming  growth  factor-beta (TGF-beta), nerve growth
+# factor (NGF), platelet-derived growth factor (PDGF) and gonadotropin have been
+# shown to  be  similar  [1,2 and references therein]: these proteins are folded
+# into two  highly  twisted antiparallel pairs of beta-strands and contain three
+# disulfide bonds, of which two form a cystine ring through which the third bond
+# passes (see  the  schematic  representation  below).  This structure is called
+# cystine knot [3].
+# 
+#             +--<======b3======C---c------+
+#             |                 :   :      |
+#             +--==c====b4===>C-:-C-c-COOH |
+#                  :          : : :        |
+#             +--==c====b2===>C---C--------+
+#             |                 :
+#             +--<======b1======C--------------NH(2)
+# 
+# '=>': indicates the direction of the beta-strands 'b1' to 'b4'.
+# 'C' : conserved cysteine in cystine knot.
+# 'c' : additional conserved cysteine in C-terminal cystine knot.
+# ':' : disulfide bridge.
+# 
+# Functional diverse modular proteins share a conserved domain of about 90 amino
+# acids in  their  C-terminal cysteine-rich region, that has been proposed [4,5]
+# to be  structurally  related  to  the  cystine-knot  family  [3]  and which is
+# therefore called  C-terminal  cystine-knot  (CTCK).  Members of the C-terminal
+# cystine knot family are listed below:
+# 
+#  - von Willebrand factor (vWF), a multifunctional protein which is involved in
+#    maintaining homeostasis.  It consists of 4 vWF type D domains, 3 vWF type A
+#    domains, 3  vWF  type  B  domains, 2 vWF type C domains (see <PDOC00928>, a
+#    X domain and the C-terminal cystine knot.
+#  - Mucins.  Human  mucin  2, a highly polymorphic multidomain molecule with  a
+#    modular architecture  similar  to  vWF.  Xenopus mucin B.1 which contains a
+#    CCP domain, a vWF type C domain, a X domain and a CTCK. Other  mucins  that
+#    contain a  CTCK  are  the  human tracheobronchial mucin (gene MUC5), bovine
+#    submaxillary mucin-like protein, pig apomucin and rat intestinal mucin-like
+#    protein.
+#  - CCN  family  (cef-10/cyr61/CTFG/fisp-12/nov  protein family). These growth-
+#    factor inducible   proteins  are  structurally  related to the insulin-like
+#    growth factor binding proteins (see <PDOC00194>) and could also function as
+#    growth-factor binding proteins.
+#  - Drosophila slit protein which is essential for  development of midline glia
+#    and commissural axon pathways. It is composed of four leucine-rich repeats,
+#    seven EGF-like domains, a laminin G-like repeat and the CTCK.
+#  - Norrie disease protein (NDP) which may be involved in neuroectodermal cell-
+#    cell interaction   and   in   a   pathway   that   regulates   neural  cell
+#    differentiation and proliferation.
+#  - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+#    mechanism. It  is  composed  of 2 FA58C domains (see <PDOC00988>), a C-type
+#    lectin domain  (see  <PDOC00537>),  2  VWFC domains (see <PDOC00928), and a
+#    CTCK.
+# 
+# The pattern  we  developed  for  CTCK correspond to the C-terminal half of the
+# domain.
+# 
+# -Consensus pattern: C-C-x(13)-C-x(2)-[GN]-x(12)-C-x-C-x(2,4)-C
+#                     [The 6 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Expert(s) to contact by email:
+#            Bork P.; bork@embl-heidelberg.de
+# 
+# -Last update: May 2004 / Text revised.
+# 
+# [ 1] Isaaks N.W.
+#      Curr. Opin. Struct. Biol. 5:391-395(1995).
+# [ 2] Sun P.D., Davies D.R.
+#      "The cystine-knot growth-factor superfamily."
+#      Annu. Rev. Biophys. Biomol. Struct. 24:269-291(1995).
+#      PubMed=7663117
+# [ 3] McDonald N.Q., Hendrickson W.A.
+#      "A structural superfamily of growth factors containing a cystine knot
+#      motif."
+#      Cell 73:421-424(1993).
+#      PubMed=8490958
+# [ 4] Meitinger T., Meindl A., Bork P., Rost B., Sander C., Haasemann M.,
+#      Murken J.
+#      "Molecular modelling of the Norrie disease protein predicts a cystine
+#      knot growth factor tertiary structure."
+#      Nat. Genet. 5:376-380(1993).
+#      PubMed=8298646; DOI=10.1038/ng1293-376
+# [ 5] Bork P.
+#      "The modular architecture of a new family of growth regulators related
+#      to connective tissue growth factor."
+#      FEBS Lett. 327:125-130(1993).
+#      PubMed=7687569
+# 
+# ***************
+# 
+# Motif: VWFC_1
+# Count: 48
+# 
+# *************************************
+# * VWFC domain signature and profile *
+# *************************************
+# 
+# The VWFC  domain  is named after the von Willebrand factor (VWF) type C repeat
+# which is  found  twice  in  this multidomain protein [1,2]. It has a length of
+# about 70  amino acids covering 10 well conserved cysteines. Proteins with such
+# a domain [1-4] are listed below.
+# 
+#  - Human  von Willebrand factor  (VWF),  a multifunctional protein involved in
+#    maintaining homeostasis.  It consists of 4 VWFD domains,  3 VWFA domains, 3
+#    VWFB domains, 3 VWFC domains, an X domain and a C-terminal cystine knot [2].
+#  - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+#    mechanism. It  is  composed  of 2 FA58C domains (see <PDOC00988>), a C-type
+#    lectin domain   (see   <PDOC00537>),  2  VWFC  domains,  and  a  CTCK  (see
+#    <PDOC00912>).
+#  - Several  vertebrate heavily glycosylated  mucins. Human mucin 2 is secreted
+#    by the  epithelia  of  different  mucus membrane-containing organs. It is a
+#    highly polymorphic  multidomain molecule. Rat intestinal mucin-like peptide
+#    coats the  epithelia  of  the  intestines.  Both  proteins  share a modular
+#    architecture similar  to  VWF. Xenopus mucin B.1 contains a Sushi domain, a
+#    VWFC domain,  a  X  domain and a C-terminal cystine knot. Other mucins that
+#    contain the  VWFC  domain  are  human tracheobronchial mucin (MUC5), bovine
+#    submaxillary mucin-like protein, human and pig apomucin.
+#  - Cef-10/cyr61/CTGF/fisp-12/nov  protein  family.  The members of this family
+#    are structurally  related  to   insulin-like growth factor binding proteins
+#    (see <PDOC00194>) and could  function  as  growth  factor-binding proteins.
+#    They contain an insulin-like growth factor-binding domain, a VWFC repeat, a
+#    thrombospondin type 1 repeat (Tsp1) and a C-terminal cystine knot.
+#  - Vertebrate  thrombospondins  1  and 2. These adhesive glycoproteins mediate
+#    cell-to-cell and cell-to-matrix interactions. They are composed of a common
+#    thrombospondin N-terminal  domain  (TspN),  a VWFC domain, three Tsp type 1
+#    repeats (Tsp1), 3 to 4 EGF-like domains and 7 calcium-binding Tsp3 repeats.
+#  - Vertebrate propeptides of fibrillar collagens alpha 1(I, II & III) and 2(V)
+#    chains that  contain  an  N-terminal  VWFC  domain, a collagenous region of
+#    about 1000  amino  acids  and  a  C-terminus  common to fibrillar collagens
+#    (COLFI domain).
+#  - Vertebrate  integral  membrane  protein  DGCR2/IDD,  a  potential  adhesion
+#    receptor with  1  LDL-receptor  class  A domain (see <PDOC00929>), a C-type
+#    lectin and a VWFC domain.
+#  - Chordin, a Xenopus developmental protein that contains four VWFC domains.
+# 
+# Of these proteins, the best characterized one is the von Willebrand factor for
+# which the duplicated VWFC domain is thought to participate in oligomerization,
+# but not in  the initial dimerization step [4].  The presence of this region in
+# other  complex-forming  proteins leads to the assumption  that the VWFC domain
+# might be involved in forming larger protein complexes [1,2].
+# 
+# The profile we developed covers the entire VWFC domain.
+# 
+# -Consensus pattern: C-x(2,3)-C-{CG}-C-x(6,14)-C-x(3,4)-C-x(2,10)-C-x(9,16)-
+#                     C-C-x(2,4)-C
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: 7.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Expert(s) to contact by email:
+#            Bork P.; bork@embl-heidelberg.de
+# 
+# -Last update: December 2004 / Pattern and text revised.
+# 
+# [ 1] Hunt L.T., Barker W.C.
+#      "von Willebrand factor shares a distinctive cysteine-rich domain with
+#      thrombospondin and procollagen."
+#      Biochem. Biophys. Res. Commun. 144:876-882(1987).
+#      PubMed=3495268
+# [ 2] Bork P.
+#      "The modular architecture of a new family of growth regulators related
+#      to connective tissue growth factor."
+#      FEBS Lett. 327:125-130(1993).
+#      PubMed=7687569
+# [ 3] Bork P.
+#      "Shuffled domains in extracellular proteins."
+#      FEBS Lett. 286:47-54(1991).
+#      PubMed=1864378
+# [ 4] Voorberg J., Fontijn R., Calafat J., Janssen H., van Mourik J.A.,
+#      Pannekoek H.
+#      "Assembly and routing of von Willebrand factor variants: the
+#      requirements for disulfide-linked dimerization reside within the
+#      carboxy-terminal 151 amino acids."
+#      J. Cell Biol. 113:195-205(1991).
+#      PubMed=2007623
+# 
+# ***************
+# 
+#
+#---------------------------------------

@@ -6,11 +6,11 @@ generation of protein database search programs", Nucleic
 Acids Res. 25:3389-3402.
 
 
-RID: D8BW17MC014
+RID: G4M0KM2R014
 
 
 Database: Non-redundant UniProtKB/SwissProt sequences
-           474,014 sequences; 179,240,369 total letters
+           474,458 sequences; 179,486,444 total letters
 Query= 
 Length=807
 
@@ -117,7 +117,7 @@ Q4JIM5.1 RecName: Full=Tyrosine-protein kinase ABL2; AltName: ...  214     2e-56
 P03949.4 RecName: Full=Tyrosine-protein kinase abl-1 [Caenorha...  213     2e-56   39%         
 P41241.2 RecName: Full=Tyrosine-protein kinase CSK; AltName: F...  202     3e-56   39%         
 P00521.1 RecName: Full=Tyrosine-protein kinase transforming pr...  209     3e-56   38%         
-P32577.1 RecName: Full=Tyrosine-protein kinase CSK; AltName: F...  202     4e-56   39%         
+P32577.1 RecName: Full=Tyrosine-protein kinase CSK; AltName: F...  202     5e-56   39%         
 
 ALIGNMENTS
 >P22607.1 RecName: Full=Fibroblast growth factor receptor 3; Short=FGFR-3; 
@@ -2761,9 +2761,9 @@ Sbjct  1060  NCDDEVYDLMRQCWREKPYERPSFAQILVSLNRMLEERKT  1099
 
 
   Database: Non-redundant UniProtKB/SwissProt sequences
-    Posted date:  May 26, 2020  3:23 AM
-  Number of letters in database: 179,240,369
-  Number of sequences in database:  474,014
+    Posted date:  Jul 1, 2020  3:29 AM
+  Number of letters in database: 179,486,444
+  Number of sequences in database:  474,458
 
 Lambda      K        H
    0.320    0.135    0.414 
@@ -2772,21 +2772,21 @@ Lambda      K        H
    0.267   0.0410    0.140 
 Matrix: BLOSUM62
 Gap Penalties: Existence: 11, Extension: 1
-Number of Sequences: 474014
-Number of Hits to DB: 26268533
-Number of extensions: 1109202
-Number of successful extensions: 3732
-Number of sequences better than 1e-10: 141
+Number of Sequences: 474458
+Number of Hits to DB: 26285810
+Number of extensions: 1111706
+Number of successful extensions: 3908
+Number of sequences better than 1e-10: 166
 Number of HSP's better than 1e-10 without gapping: 0
-Number of HSP's gapped: 3379
-Number of HSP's successfully gapped: 152
+Number of HSP's gapped: 3561
+Number of HSP's successfully gapped: 174
 Length of query: 807
-Length of database: 179240369
+Length of database: 179486444
 Length adjustment: 126
 Effective length of query: 681
-Effective length of database: 119514605
-Effective search space: 81389446005
-Effective search space used: 81389446005
+Effective length of database: 119704736
+Effective search space: 81518925216
+Effective search space used: 81518925216
 T: 11
 A: 40
 X1: 16 (7.4 bits)

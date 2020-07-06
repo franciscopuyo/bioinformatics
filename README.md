@@ -8,18 +8,42 @@ cpan Bio::Perl
 cpan Bio::Tools::CodonTable
 cpan Bio::Tools::Run::RemoteBlast
 ```
+
+Install EMBOSS
+http://emboss.open-bio.org/html/use/ch02s07.html
+```
+cpan Bio::Factory::EMBOSS
+```
+
+Setup prosite DB
+```
+sudo prosextract
+```
+
 ## Scripts
 
 ARN translator
 Creates a translation.fasta with the encoded protein
 ```
-perl arnTranslator [filename.gb] [start] [stop]
+perl arnTranslator.pl [filename.gb] [start] [stop]
 ```
 
 Blast analyser
 Creates a *.out with the query name if exists or .out if it doesn't with the blast analysis using blast proteins DB
 ```
-perl blast [filename.fasta]
+perl blast.pl [filename.fasta]
+```
+
+Blast filter
+Filters the blast input file results
+```
+perl blastFlter.pl [filename.blast] [sequence filter]
+```
+
+Emboss anlysis
+Analyses a genbank file using patmatmotifs and sixpack 
+```
+perl embossAnalysis.pl [filename.gb]
 ```
 
 ## Troubleshooting
